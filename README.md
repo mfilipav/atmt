@@ -275,3 +275,7 @@ cat translations/translation_exp1_bpe/model_translations.out | sacrebleu baselin
 
 Dummy results:
 `BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.14 = 0.3 28.6/0.8/0.1/0.0 (BP = 0.686 ratio = 0.726 hyp_len = 2916 ref_len = 4017)`
+
+
+
+## TODO: do we need a special script for BPE model_translations.txt -> model_translations.out?
