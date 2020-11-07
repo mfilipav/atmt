@@ -13,6 +13,11 @@ from seq2seq.data.dictionary import Dictionary
 from seq2seq.data.dataset import Seq2SeqDataset, BatchSampler
 from seq2seq.models import ARCH_MODEL_REGISTRY, ARCH_CONFIG_REGISTRY
 
+# BPE dropout modification
+from subword_nmt import apply_bpe
+import preprocess
+# BPE dropout modification ends
+
 
 def get_args():
     """ Defines training-specific hyper-parameters. """
@@ -98,7 +103,39 @@ def main(args):
     bad_epochs = 0
     best_validate = float('inf')
 
+
+    ## BPE dropout
+    def apply_dropout_to_training_data():
+        codes_file = open('baseline/preprocessed_data_bpe_drop/codes_file', 'r')
+        vocabulary_file = open('baseline/preprocessed_data_drop/dict.de', 'r')
+        vocabulary = apply_bpe.read_vocabulary(vocab_file=vocabulary_file, threshold=1)
+        bpe = apply_bpe.BPE(codes=codes_file, vocab=vocabulary) 
+        
+        train_file_in = open('baseline/preprocessed_data_bpe_drop/train.de', 'r')
+        # train_file_bpe = open('baseline/preprocessed_data_bpe/train_bpetest.de', 'w')
+        
+        with open('baseline/preprocessed_data_bpe_drop/train_bpe.de', 'w') as train_file_bpe:
+            for line in train_file_in:
+                train_file_bpe.write(bpe.process_line(line, dropout=0.1))
+
+        # pre-process and pickle
+        # python preprocess.py --target-lang en --source-lang de --dest-dir baseline/prepared_data_bpe/ --train-prefix baseline/preprocessed_data_bpe/train_bpe --valid-prefix baseline/preprocessed_data_bpe/valid_bpe --test-prefix baseline/preprocessed_data_bpe/test_bpe --tiny-train-prefix baseline/preprocessed_data_bpe/tiny_train_bpe --vocab-src baseline/preprocessed_data_bpe/vocab_file.de --vocab-trg baseline/preprocessed_data_bpe/vocab_file.en
+
+
+
+
     for epoch in range(last_epoch + 1, args.max_epoch):
+        ## BPE dropout
+        apply_dropout_to_training_data()
+        
+        
+        # reload train dataset
+        train_dataset = load_data(split='train') if not args.train_on_tiny else load_data(split='tiny_train')
+        
+        
+        
+        ## BPE dropout ends
+        
         train_loader = \
             torch.utils.data.DataLoader(train_dataset, num_workers=1, collate_fn=train_dataset.collater,
                                         batch_sampler=BatchSampler(train_dataset, args.max_tokens, args.batch_size, 1,
