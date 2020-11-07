@@ -107,25 +107,34 @@ def main(args):
     ## BPE dropout
     def apply_dropout_to_training_data():
         codes_file = open('baseline/preprocessed_data_bpe_drop/codes_file', 'r')
-        vocabulary_file = open('baseline/preprocessed_data_bpe_drop/dict.de', 'r')
+        vocabulary_file = open('baseline/preprocessed_data_drop/dict.de', 'r')
         vocabulary = apply_bpe.read_vocabulary(vocab_file=vocabulary_file, threshold=1)
         bpe = apply_bpe.BPE(codes=codes_file, vocab=vocabulary) 
         
-        train_file_in = open('baseline/preprocessed_data_bpe_drop/train.de', 'r')       
-        with open('baseline/preprocessed_data_bpe_drop/train_bpe.de', 'w') as train_file_bpe:
+        train_file_in = open('baseline/preprocessed_data_bpe_drop/tiny_train.de', 'r')       
+        with open('baseline/preprocessed_data_bpe_drop/tiny_train_bpe.de', 'w') as train_file_bpe:
             for line in train_file_in:
                 train_file_bpe.write(bpe.process_line(line, dropout=0.1))
-        print("*** Dropout applied to: ", train_file_bpe)
 
-        vocabulary_file = open('baseline/preprocessed_data_bpe_drop/dict.en', 'r')
+
+        vocabulary_file = open('baseline/preprocessed_data_drop/dict.en', 'r')
         vocabulary = apply_bpe.read_vocabulary(vocab_file=vocabulary_file, threshold=1)
         bpe = apply_bpe.BPE(codes=codes_file, vocab=vocabulary) 
         
-        train_file_in = open('baseline/preprocessed_data_bpe_drop/train.en', 'r')       
-        with open('baseline/preprocessed_data_bpe_drop/train_bpe.en', 'w') as train_file_bpe:
+        train_file_in = open('baseline/preprocessed_data_bpe_drop/tiny_train.en', 'r')       
+        with open('baseline/preprocessed_data_bpe_drop/tiny_train_bpe.en', 'w') as train_file_bpe:
             for line in train_file_in:
                 train_file_bpe.write(bpe.process_line(line, dropout=0.1))
-        print("*** Dropout applied to: ", train_file_bpe)
+
+
+        # pre-process and pickle
+        # python preprocess.py --target-lang en --source-lang de --dest-dir baseline/prepared_data_bpe/ 
+        # --train-prefix baseline/preprocessed_data_bpe/train_bpe --valid-prefix baseline/preprocessed_data_bpe/valid_bpe 
+        # --test-prefix baseline/preprocessed_data_bpe/test_bpe 
+        # --tiny-train-prefix baseline/preprocessed_data_bpe/tiny_train_bpe 
+        # --vocab-src baseline/preprocessed_data_bpe/vocab_file.de 
+        # --vocab-trg baseline/preprocessed_data_bpe/vocab_file.en
+
 
 
 
@@ -136,12 +145,13 @@ def main(args):
         apply_dropout_to_training_data()
         
         # encode data to picle
-        call("./preprocess_bpe_dropout_data.sh", shell=True)
+        rc= call("./preprocess_bpe_dropout_data.sh", shell=True)
         
         # reload train dataset
         train_dataset = load_data(split='train') if not args.train_on_tiny else load_data(split='tiny_train')
         
-                
+        
+        
         ## BPE dropout ends
         
         train_loader = \
