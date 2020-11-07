@@ -1,4 +1,5 @@
 numpy
 sacrebleu
 torch==1.6.0
+sentencepiece
 tqdm
