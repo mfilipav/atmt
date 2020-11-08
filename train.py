@@ -134,10 +134,10 @@ def main(args):
         
         # apply BPE to train data again
         apply_dropout_to_training_data()
-        
+        print("Done BPE encoding with Dropout")
         # encode data to picle
         call("./preprocess_bpe_dropout_data.sh", shell=True)
-        
+        print("Done Processing BPE files with dropout")
         # reload train dataset
         train_dataset = load_data(split='train') if not args.train_on_tiny else load_data(split='tiny_train')
         
