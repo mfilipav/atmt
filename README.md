@@ -256,6 +256,12 @@ What we used:
 python3 train.py --data baseline/prepared_data_bpe --source-lang de --target-lang en --batch-size 1 --max-epoch 100 --patience 3 --save-dir checkpoints/checkpoint_exp1_bpe
 ```
 
+```
+INFO: Epoch 061: loss 2.212 | lr 0.0003 | num_tokens 9.794 | batch_size 1 | grad_norm 53.28 | clip 0.9988
+INFO: Epoch 061: valid_loss 3.4 | num_tokens 10.2 | batch_size 500 | valid_perplexity 30
+INFO: No validation set improvements observed for 3 epochs. Early stop!
+```
+
 ## Step 2 Translate from DE to EN
 ```
 python3 translate.py --data baseline/prepared_data_bpe --checkpoint-path checkpoints/checkpoint_exp1_bpe/checkpoint_ --output translations/translation_exp1_bpe/model_translations.txt
@@ -273,9 +279,112 @@ bash postprocess.sh translations/translation_exp1_bpe/model_translations.txt tra
 cat translations/translation_exp1_bpe/model_translations.out | sacrebleu baseline/raw_data/test.en
 ```
 
-Dummy results:
-`BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.14 = 0.3 28.6/0.8/0.1/0.0 (BP = 0.686 ratio = 0.726 hyp_len = 2916 ref_len = 4017)`
+## EXP1 Results
+```
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.14 = 17.2 49.8/21.9/12.1/6.9 (BP = 0.988 ratio = 0.988 hyp_len = 3968 ref_len = 4017)
+```
+
+
+# EXP2 BPE+dropout
+## Training:
+Here we show the last two epochs, 23 and 24:
+
+```
+*** Dropout applied to:  <_io.TextIOWrapper name='baseline/preprocessed_data_bpe_drop/train_bpe.de' mode='w' encoding='UTF-8'>
+*** Dropout applied to:  <_io.TextIOWrapper name='baseline/preprocessed_data_bpe_drop/train_bpe.en' mode='w' encoding='UTF-8'>
+Done BPE encoding with Dropout
+[2020-11-08 11:39:30] COMMAND: preprocess.py --target-lang en --source-lang de --dest-dir baseline/prepared_data_bpe_drop/ --train-prefix baseline/preprocessed_data_bpe_drop/train_bpe --tiny-train-prefix baseline/preprocessed_data_bpe_drop/tiny_train_bpe --vocab-src baseline/preprocessed_data_bpe_drop/dict.de --vocab-trg baseline/preprocessed_data_bpe_drop/dict.en
+[2020-11-08 11:39:30] Arguments: {'source_lang': 'de', 'target_lang': 'en', 'train_prefix': 'baseline/preprocessed_data_bpe_drop/train_bpe', 'tiny_train_prefix': 'baseline/preprocessed_data_bpe_drop/tiny_train_bpe', 'valid_prefix': None, 'test_prefix': None, 'dest_dir': 'baseline/prepared_data_bpe_drop/', 'threshold_src': 2, 'num_words_src': -1, 'threshold_tgt': 2, 'num_words_tgt': -1, 'vocab_src': 'baseline/preprocessed_data_bpe_drop/dict.de', 'vocab_trg': 'baseline/preprocessed_data_bpe_drop/dict.en'}
+[2020-11-08 11:39:30] COMMAND: preprocess.py --target-lang en --source-lang de --dest-dir baseline/prepared_data_bpe_drop/ --train-prefix baseline/preprocessed_data_bpe_drop/train_bpe --tiny-train-prefix baseline/preprocessed_data_bpe_drop/tiny_train_bpe --vocab-src baseline/preprocessed_data_bpe_drop/dict.de --vocab-trg baseline/preprocessed_data_bpe_drop/dict.en
+[2020-11-08 11:39:30] Arguments: {'source_lang': 'de', 'target_lang': 'en', 'train_prefix': 'baseline/preprocessed_data_bpe_drop/train_bpe', 'tiny_train_prefix': 'baseline/preprocessed_data_bpe_drop/tiny_train_bpe', 'valid_prefix': None, 'test_prefix': None, 'dest_dir': 'baseline/prepared_data_bpe_drop/', 'threshold_src': 2, 'num_words_src': -1, 'threshold_tgt': 2, 'num_words_tgt': -1, 'vocab_src': 'baseline/preprocessed_data_bpe_drop/dict.de', 'vocab_trg': 'baseline/preprocessed_data_bpe_drop/dict.en'}
+[2020-11-08 11:39:30] Loaded a source dictionary (en) with 7764 words
+[2020-11-08 11:39:30] Loaded a target dictionary (en) with 5614 words
+[2020-11-08 11:39:32] Built a binary dataset for baseline/preprocessed_data_bpe_drop/train_bpe.de: 10000 sentences, 127780 tokens, 0.462% replaced by unknown token
+[2020-11-08 11:39:33] Built a binary dataset for baseline/preprocessed_data_bpe_drop/tiny_train_bpe.de: 1000 sentences, 13100 tokens, 0.550% replaced by unknown token
+[2020-11-08 11:39:35] Built a binary dataset for baseline/preprocessed_data_bpe_drop/train_bpe.en: 10000 sentences, 124516 tokens, 1.688% replaced by unknown token
+[2020-11-08 11:39:35] Built a binary dataset for baseline/preprocessed_data_bpe_drop/tiny_train_bpe.en: 1000 sentences, 12662 tokens, 1.548% replaced by unknown token
+Done Processing BPE files with dropout
+INFO: Epoch 023: loss 3.479 | lr 0.0003 | num_tokens 12.45 | batch_size 1 | grad_norm 45.04 | clip 1
+INFO: Epoch 023: valid_loss 3.78 | num_tokens 10.2 | batch_size 500 | valid_perplexity 43.7
+*** Dropout applied to:  <_io.TextIOWrapper name='baseline/preprocessed_data_bpe_drop/train_bpe.de' mode='w' encoding='UTF-8'>
+*** Dropout applied to:  <_io.TextIOWrapper name='baseline/preprocessed_data_bpe_drop/train_bpe.en' mode='w' encoding='UTF-8'>
+Done BPE encoding with Dropout
+[2020-11-08 11:47:03] COMMAND: preprocess.py --target-lang en --source-lang de --dest-dir baseline/prepared_data_bpe_drop/ --train-prefix baseline/preprocessed_data_bpe_drop/train_bpe --tiny-train-prefix baseline/preprocessed_data_bpe_drop/tiny_train_bpe --vocab-src baseline/preprocessed_data_bpe_drop/dict.de --vocab-trg baseline/preprocessed_data_bpe_drop/dict.en
+[2020-11-08 11:47:03] Arguments: {'source_lang': 'de', 'target_lang': 'en', 'train_prefix': 'baseline/preprocessed_data_bpe_drop/train_bpe', 'tiny_train_prefix': 'baseline/preprocessed_data_bpe_drop/tiny_train_bpe', 'valid_prefix': None, 'test_prefix': None, 'dest_dir': 'baseline/prepared_data_bpe_drop/', 'threshold_src': 2, 'num_words_src': -1, 'threshold_tgt': 2, 'num_words_tgt': -1, 'vocab_src': 'baseline/preprocessed_data_bpe_drop/dict.de', 'vocab_trg': 'baseline/preprocessed_data_bpe_drop/dict.en'}
+[2020-11-08 11:47:03] COMMAND: preprocess.py --target-lang en --source-lang de --dest-dir baseline/prepared_data_bpe_drop/ --train-prefix baseline/preprocessed_data_bpe_drop/train_bpe --tiny-train-prefix baseline/preprocessed_data_bpe_drop/tiny_train_bpe --vocab-src baseline/preprocessed_data_bpe_drop/dict.de --vocab-trg baseline/preprocessed_data_bpe_drop/dict.en
+[2020-11-08 11:47:03] Arguments: {'source_lang': 'de', 'target_lang': 'en', 'train_prefix': 'baseline/preprocessed_data_bpe_drop/train_bpe', 'tiny_train_prefix': 'baseline/preprocessed_data_bpe_drop/tiny_train_bpe', 'valid_prefix': None, 'test_prefix': None, 'dest_dir': 'baseline/prepared_data_bpe_drop/', 'threshold_src': 2, 'num_words_src': -1, 'threshold_tgt': 2, 'num_words_tgt': -1, 'vocab_src': 'baseline/preprocessed_data_bpe_drop/dict.de', 'vocab_trg': 'baseline/preprocessed_data_bpe_drop/dict.en'}
+[2020-11-08 11:47:03] Loaded a source dictionary (en) with 7764 words
+[2020-11-08 11:47:04] Loaded a target dictionary (en) with 5614 words
+[2020-11-08 11:47:06] Built a binary dataset for baseline/preprocessed_data_bpe_drop/train_bpe.de: 10000 sentences, 127521 tokens, 0.460% replaced by unknown token
+[2020-11-08 11:47:06] Built a binary dataset for baseline/preprocessed_data_bpe_drop/tiny_train_bpe.de: 1000 sentences, 13100 tokens, 0.550% replaced by unknown token
+[2020-11-08 11:47:08] Built a binary dataset for baseline/preprocessed_data_bpe_drop/train_bpe.en: 10000 sentences, 124570 tokens, 1.612% replaced by unknown token
+[2020-11-08 11:47:08] Built a binary dataset for baseline/preprocessed_data_bpe_drop/tiny_train_bpe.en: 1000 sentences, 12662 tokens, 1.548% replaced by unknown token
+Done Processing BPE files with dropout
+INFO: Epoch 024: loss 3.463 | lr 0.0003 | num_tokens 12.46 | batch_size 1 | grad_norm 45.03 | clip 1
+INFO: Epoch 024: valid_loss 3.77 | num_tokens 10.2 | batch_size 500 | valid_perplexity 43.2
+INFO: No validation set improvements observed for 3 epochs. Early stop!
+
+```
+
+## Translate EXP2
+
+```
+(atmt) bs-mbpr113:atmt mfilipav$ python3 translate.py --data baseline/prepared_data_bpe_drop --checkpoint-path checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt --output translations/translation_exp2_bpe_dropout/model_translations.txt
+[2020-11-08 15:34:21] COMMAND: translate.py --data baseline/prepared_data_bpe_drop --checkpoint-path checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt --output translations/translation_exp2_bpe_dropout/model_translations.txt
+[2020-11-08 15:34:21] Arguments: {'cuda': False, 'seed': 42, 'data': 'baseline/prepared_data_bpe_drop', 'checkpoint_path': 'checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt', 'batch_size': 1, 'output': 'translations/translation_exp2_bpe_dropout/model_translations.txt', 'max_len': 25, 'source_lang': 'de', 'target_lang': 'en', 'max_tokens': None, 'train_on_tiny': False, 'arch': 'lstm', 'max_epoch': 100, 'clip_norm': 4.0, 'lr': 0.0003, 'patience': 3, 'log_file': None, 'save_dir': 'checkpoints/checkpoint_exp2_bpe_dropout', 'restore_file': 'checkpoint_last.pt', 'save_interval': 1, 'no_save': False, 'epoch_checkpoints': False, 'encoder_embed_dim': 64, 'encoder_embed_path': None, 'encoder_hidden_size': 64, 'encoder_num_layers': 1, 'encoder_bidirectional': 'True', 'encoder_dropout_in': 0.25, 'encoder_dropout_out': 0.25, 'decoder_embed_dim': 64, 'decoder_embed_path': None, 'decoder_hidden_size': 128, 'decoder_num_layers': 1, 'decoder_dropout_in': 0.25, 'decoder_dropout_out': 0.25, 'decoder_use_attention': 'True', 'decoder_use_lexical_model': 'False', 'device_id': 0}
+[2020-11-08 15:34:21] Loaded a source dictionary (de) with 7764 words
+[2020-11-08 15:34:21] Loaded a target dictionary (en) with 5614 words
+[2020-11-08 15:34:21] Loaded a model from checkpoint checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt
+```
 
 
 
-## TODO: do we need a special script for BPE model_translations.txt -> model_translations.out?
+## Re-process and Evaluate EXP2 with sacrebleau
+```
+python3 translate.py --data baseline/prepared_data_bpe_drop --checkpoint-path checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt --output translations/translation_exp2_bpe_dropout/model_translations.txt
+[2020-11-08 15:34:21] COMMAND: translate.py --data baseline/prepared_data_bpe_drop --checkpoint-path checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt --output translations/translation_exp2_bpe_dropout/model_translations.txt
+[2020-11-08 15:34:21] Arguments: {'cuda': False, 'seed': 42, 'data': 'baseline/prepared_data_bpe_drop', 'checkpoint_path': 'checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt', 'batch_size': 1, 'output': 'translations/translation_exp2_bpe_dropout/model_translations.txt', 'max_len': 25, 'source_lang': 'de', 'target_lang': 'en', 'max_tokens': None, 'train_on_tiny': False, 'arch': 'lstm', 'max_epoch': 100, 'clip_norm': 4.0, 'lr': 0.0003, 'patience': 3, 'log_file': None, 'save_dir': 'checkpoints/checkpoint_exp2_bpe_dropout', 'restore_file': 'checkpoint_last.pt', 'save_interval': 1, 'no_save': False, 'epoch_checkpoints': False, 'encoder_embed_dim': 64, 'encoder_embed_path': None, 'encoder_hidden_size': 64, 'encoder_num_layers': 1, 'encoder_bidirectional': 'True', 'encoder_dropout_in': 0.25, 'encoder_dropout_out': 0.25, 'decoder_embed_dim': 64, 'decoder_embed_path': None, 'decoder_hidden_size': 128, 'decoder_num_layers': 1, 'decoder_dropout_in': 0.25, 'decoder_dropout_out': 0.25, 'decoder_use_attention': 'True', 'decoder_use_lexical_model': 'False', 'device_id': 0}
+[2020-11-08 15:34:21] Loaded a source dictionary (de) with 7764 words
+[2020-11-08 15:34:21] Loaded a target dictionary (en) with 5614 words
+[2020-11-08 15:34:21] Loaded a model from checkpoint checkpoints/checkpoint_exp2_bpe_dropout/checkpoint_best.pt
+(atmt) bs-mbpr113:atmt mfilipav$ bash postprocess.sh translations/translation_exp2_bpe_dropout/model_translations.txt translations/translation_exp2_bpe_dropout/model_translations.out en
+(atmt) bs-mbpr113:atmt mfilipav$ cat translations/translation_exp2_bpe_dropout/model_translations.out | sacrebleu baseline/raw_data/test.en
+
+checkpoint_best:
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.14 = 7.4 
+36.4/10.7/4.1/1.9 (BP = 1.000 ratio = 1.135 hyp_len = 4558 ref_len = 4017)
+
+checkpoint_last:
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.14 = 8.0 36.3/11.4/4.6/2.1 (BP = 1.000 ratio = 1.154 hyp_len = 4637 ref_len = 4017)
+
+```
+
+
+# Compare the reference, and EXP1 and EXP2 translations
+
+```
+Reference:
+    1. We've already met.
+    2. Jumping rope is my daughter's favorite.
+    3. If you go fishing tomorrow, I will, too.
+    4. Tom has to look after Mary.
+    5. I want you to go with Tom.
+    6. Safety is the primary concern.
+
+EXP1: BPE
+    1. We have to meet us.
+    2. The daughter is to be love with my daughter.
+    3. If you've been going to go to the same, I'll get.
+    4. Tom must be able to Mary.
+    5. I want to tell you Tom.
+    6. The work is the only one of the same one.
+
+EXP2: BPE dropout
+    1. We have to do us.
+    2. The li@@ k@@ e is my fa@@ ther.
+    3. If you should go to Boston, I am.
+    4. Tom must be at Mary.
+    5. I want you to do Tom.
+    6. The g@@ oo@@ d is the best of the b@@ oo@@ k.
+```
+
