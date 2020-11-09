@@ -31,6 +31,7 @@ def get_args():
     parser.add_argument('--max-tokens', default=None, type=int, help='maximum number of tokens in a batch')
     parser.add_argument('--batch-size', default=1, type=int, help='maximum number of sentences in a batch')
     parser.add_argument('--train-on-tiny', action='store_true', help='train model on a tiny dataset')
+    parser.add_argument('--bpe-dropout', action='store_true',  help='apply BPE dropout of 0.1 to train data')
 
     # Add model arguments
     parser.add_argument('--arch', default='lstm', choices=ARCH_MODEL_REGISTRY.keys(), help='model architecture')
@@ -107,6 +108,8 @@ def main(args):
     ## BPE dropout
     def apply_dropout_to_training_data():
         codes_file = open('baseline/preprocessed_data_bpe_drop/codes_file', 'r')
+        
+        # TODO refactor paths, for now hardcoding will suffice
         vocabulary_file = open('baseline/preprocessed_data_bpe_drop/dict.de', 'r')
         vocabulary = apply_bpe.read_vocabulary(vocab_file=vocabulary_file, threshold=1)
         bpe = apply_bpe.BPE(codes=codes_file, vocab=vocabulary) 
@@ -115,7 +118,8 @@ def main(args):
         with open('baseline/preprocessed_data_bpe_drop/train_bpe.de', 'w') as train_file_bpe:
             for line in train_file_in:
                 train_file_bpe.write(bpe.process_line(line, dropout=0.1))
-        print("*** Dropout applied to: ", train_file_bpe)
+        logging.info('  Dropout applied to:  ({:s})'.format(train_file_bpe))
+
 
         vocabulary_file = open('baseline/preprocessed_data_bpe_drop/dict.en', 'r')
         vocabulary = apply_bpe.read_vocabulary(vocab_file=vocabulary_file, threshold=1)
@@ -125,25 +129,27 @@ def main(args):
         with open('baseline/preprocessed_data_bpe_drop/train_bpe.en', 'w') as train_file_bpe:
             for line in train_file_in:
                 train_file_bpe.write(bpe.process_line(line, dropout=0.1))
-        print("*** Dropout applied to: ", train_file_bpe)
+        logging.info('  Dropout applied to:  ({:s})'.format(train_file_bpe))
 
 
 
     for epoch in range(last_epoch + 1, args.max_epoch):
-        ## BPE dropout
         
-        # apply BPE to train data again
-        apply_dropout_to_training_data()
-        print("Done BPE encoding with Dropout")
-        # encode data to picle
-        call("./preprocess_bpe_dropout_data.sh", shell=True)
-        print("Done Processing BPE files with dropout")
-        # reload train dataset
-        train_dataset = load_data(split='train') if not args.train_on_tiny else load_data(split='tiny_train')
-        
+        ## If needed, apply BPE dropout to train data
+        if args.bpe_dropout:
+            apply_dropout_to_training_data()
+            logging.info("Done BPE encoding training set with Dropout")
+
+            
+            # encode data to picle
+            call("./preprocess_bpe_dropout_data.sh", shell=True)
+            logging.info("Done Processing BPE files with Dropout")
+            
+            # reload train dataset
+            train_dataset = load_data(split='train') if not args.train_on_tiny else load_data(split='tiny_train')
+            logging.info("Reloaded training dataset after BPE dropout")
+
                 
-        ## BPE dropout ends
-        
         train_loader = \
             torch.utils.data.DataLoader(train_dataset, num_workers=1, collate_fn=train_dataset.collater,
                                         batch_sampler=BatchSampler(train_dataset, args.max_tokens, args.batch_size, 1,
