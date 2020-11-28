@@ -82,6 +82,9 @@ def main(args):
             # __QUESTION 1: What is "go_slice" used for and what do its dimensions represent?
             go_slice = \
                 torch.ones(sample['src_tokens'].shape[0], 1).fill_(tgt_dict.eos_idx).type_as(sample['src_tokens'])
+            print("sample['src_tokens'].shape[0]:  ", sample['src_tokens'].shape[0])  # sample['src_tokens'].shape[0]:   64, batch size
+            print("go_slice.shape: ", go_slice.shape)  # torch.Size([64, 1])
+                
             if args.cuda:
                 go_slice = utils.move_to_cuda(go_slice)
 
