@@ -1,5 +1,8 @@
-numpy
-sacrebleu
+future==0.18.2
+numpy==1.19.3
+portalocker==2.0.0
+sacrebleu==1.4.14
+sentencepiece==0.1.94
+subword-nmt==0.3.7
 torch==1.6.0
-sentencepiece
-tqdm
+tqdm==4.51.0
