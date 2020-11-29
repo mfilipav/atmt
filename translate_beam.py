@@ -114,7 +114,7 @@ def main(args):
         for i in range(batch_size):
             for j in range(args.beam_size):
                 best_candidate = next_candidates[i, :, j]
-                # what is backoff candidate? used if best_cand is invalid (EOS or UNK)?
+                # what is backoff candidate? is used if best_cand is invalid (EOS or UNK)?
                 backoff_candidate = next_candidates[i, :, j+1]
                 best_log_p = log_probs[i, :, j]
                 backoff_log_p = log_probs[i, :, j+1]
@@ -138,10 +138,11 @@ def main(args):
                                       mask, sequence=torch.cat((go_slice[i], next_word)), 
                                       logProb=log_p, length=1
                                 )
-                print("debug: beam j and searches[i]: ", i, j, searches[i])
                 # __QUESTION 3: Why do we add the node with a negative score?
-                # Adds a new beam search node to the queue of current nodes
-                # node.eval() returns log prob
+                # Adds a new beam search node to the priority queue of current nodes
+                # We're dealing with PriorityQueue data structure object, 
+                # class PriorityQueue(Queue) - Variant of Queue that retrieves open entries in priority order (lowest first).
+                # node.eval() returns log prob.
                 searches[i].add(score=-node.eval(), node=node)
 
         # Start generating further tokens until max sentence length reached
@@ -195,6 +196,7 @@ def main(args):
                         node = BeamSearchNode(search, node.emb, node.lstm_out, node.final_hidden,
                                               node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
                                               next_word)), node.logp, node.length)
+                        # Adds a beam search path that ended in EOS (= finished sentence)
                         search.add_final(-node.eval(), node)
 
                     # Add the node to current nodes for next iteration
@@ -206,6 +208,7 @@ def main(args):
 
             # __QUESTION 5: What happens internally when we prune our beams?
             # How do we know we always maintain the best sequences?
+            # Removes all nodes but the beam_size best ones (lowest neg log prob)
             for search in searches:
                 search.prune()
 
@@ -216,6 +219,9 @@ def main(args):
         output_sentences = [decoded_batch[row, :] for row in range(decoded_batch.shape[0])]
 
         # __QUESTION 6: What is the purpose of this for loop?
+        # temp = output_sentences and contains batch_size items each with ids of vocabulary items up until EOS
+        # print("output_sentences before: ", output_sentences)
+
         temp = list()
         for sent in output_sentences:
             first_eos = np.where(sent == tgt_dict.eos_idx)[0]
@@ -224,6 +230,7 @@ def main(args):
             else:
                 temp.append(sent)
         output_sentences = temp
+        # print("output_sentences: ", output_sentences)
 
         # Convert arrays of indices into strings of words
         output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
