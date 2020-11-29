@@ -59,7 +59,7 @@ def main(args):
                                               batch_sampler=BatchSampler(test_dataset, 9999999,
                                                                          args.batch_size, 1, 0, shuffle=False,
                                                                          seed=args.seed))
-    # Build model and criterion
+    # Build a Seq2SeqModel model (args.arch = LSTM), and criterion
     model = models.build_model(args, src_dict, tgt_dict)
     if args.cuda:
         model = model.cuda()
@@ -73,32 +73,48 @@ def main(args):
     for i, sample in enumerate(progress_bar):
 
         # Create a beam search object or every input sentence in batch
+        # a) int, batch size
         batch_size = sample['src_tokens'].shape[0]
-        searches = [BeamSearch(args.beam_size, args.max_len - 1, tgt_dict.unk_idx) for i in range(batch_size)]
 
+        # b) list of seq2seq.beam.BeamSearch objects, len=args.batch-size
+        searches = [BeamSearch(beam_size=args.beam_size, max_len=args.max_len - 1, pad=tgt_dict.unk_idx) for i in range(batch_size)]
+        
         with torch.no_grad():
-            # Compute the encoder output
-            encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
+            # Compute the encoder output, a dict with:
+            # 'src_embeddings', [src_time_steps, batch_size, num_features], 
+            # 'src_out', [lstm_output, final_hidden_states, final_cell_states], 
+            # 'src_mask', for each batch, each sequence where pad_idx begins as True
+            encoder_out = model.encoder(src_tokens=sample['src_tokens'], src_lengths=sample['src_lengths'])
+            
             # __QUESTION 1: What is "go_slice" used for and what do its dimensions represent?
+            # tensor 64x1 filled with 1s, used as target inputs
             go_slice = \
                 torch.ones(sample['src_tokens'].shape[0], 1).fill_(tgt_dict.eos_idx).type_as(sample['src_tokens'])
-            print("sample['src_tokens'].shape[0]:  ", sample['src_tokens'].shape[0])  # sample['src_tokens'].shape[0]:   64, batch size
-            print("go_slice.shape: ", go_slice.shape)  # torch.Size([64, 1])
                 
             if args.cuda:
                 go_slice = utils.move_to_cuda(go_slice)
 
-            # Compute the decoder output at the first time step
-            decoder_out, _ = model.decoder(go_slice, encoder_out)
+            # Compute the decoder output at the first time step from (tgt_inputs, encoder_out)
+            # return decoder_output, [batch_size, tgt_time_steps, num_features],  and attn_weights
+            decoder_out, _ = model.decoder(tgt_inputs=go_slice, encoder_out=encoder_out)
+
 
             # __QUESTION 2: Why do we keep one top candidate more than the beam size?
-            log_probs, next_candidates = torch.topk(torch.log(torch.softmax(decoder_out, dim=2)),
-                                                    args.beam_size+1, dim=-1)
+            # return namedtuple of (values, indices), with:
+            # log_probs - SM probabilities, torch.Size([64, 1, 3]), [batch-size, 1, beam_size+1] 
+            # next_candidates - the indices of the elements in the original input tensor (inputs - translated tokens)
+            # same size as log_probs.
+            # Extra 1 - to compensate for <\s> or <unk> token.
+            log_probs, next_candidates = torch.topk(input=torch.log(torch.softmax(decoder_out, dim=2)),
+                                                    k=args.beam_size+1, dim=-1)
 
+            
+            
         # Create number of beam_size beam search nodes for every input sentence
         for i in range(batch_size):
             for j in range(args.beam_size):
                 best_candidate = next_candidates[i, :, j]
+                # what is backoff candidate? used if best_cand is invalid (EOS or UNK)?
                 backoff_candidate = next_candidates[i, :, j+1]
                 best_log_p = log_probs[i, :, j]
                 backoff_log_p = log_probs[i, :, j+1]
@@ -116,10 +132,17 @@ def main(args):
                 except TypeError:
                     mask = None
 
+                # for each batch item i, produce beam_size `node` objects
+                # total: batch_size x beam_size 
                 node = BeamSearchNode(searches[i], emb, lstm_out, final_hidden, final_cell,
-                                      mask, torch.cat((go_slice[i], next_word)), log_p, 1)
+                                      mask, sequence=torch.cat((go_slice[i], next_word)), 
+                                      logProb=log_p, length=1
+                                )
+                print("debug: beam j and searches[i]: ", i, j, searches[i])
                 # __QUESTION 3: Why do we add the node with a negative score?
-                searches[i].add(-node.eval(), node)
+                # Adds a new beam search node to the queue of current nodes
+                # node.eval() returns log prob
+                searches[i].add(score=-node.eval(), node=node)
 
         # Start generating further tokens until max sentence length reached
         for _ in range(args.max_len-1):
