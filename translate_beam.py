@@ -73,7 +73,7 @@ def main(args):
     progress_bar = tqdm(test_loader, desc='| Generation', leave=False)
 
     # Iterate over the test set
-    # TODO
+    # TODO smth wrong here
     all_hyps = {}
     for i, sample in enumerate(progress_bar):
 
@@ -225,15 +225,16 @@ def main(args):
                 search.prune()
 
         # Segment into sentences, return a list with adaptive beam search
-        #best_sents = torch.stack( [search.get_best()[1].sequence[1:].cpu() for search in searches] )
-        nodes = search.get_best(args.k_best)
+        # best_sents = torch.stack( [search.get_best()[1].sequence[1:].cpu() for search in searches] )
+        # TASK 4
         best_sents_list = []
-        for node in nodes:
-            node_best_sents = torch.stack([node[1].sequence[1:].cpu() for search in searches])
-            best_sents_list.append(node_best_sents)
-            
+        for search in searches:
+            for node in search.get_best(args.k_best):
+                best_sents_list.append(node[1].sequence[1:])
+        
+        # finish stacking (concatenating along a dim)
         best_sents = torch.stack(best_sents_list)
-
+                
         decoded_batch = best_sents.numpy()
 
         # [token_ids, EOS, PAD]
@@ -257,9 +258,10 @@ def main(args):
 
         # TODO: adapt to take in multiple sents
         for ii, sent in enumerate(output_sentences):
-            all_hyps[int(sample['id'].data[ii])].append(sent)
-        
-
+            all_hyps[int(sample['id'].data[ii])] = sent
+            print("debug: ", all_hyps[int(sample['id'].data[ii])]) ## BUG: IndexError: index 64 is out of bounds for dimension 0 with size 64
+            # print("ii", ii)
+            # print("sent", sent)
 
     # Write to file
     if args.output is not None:
