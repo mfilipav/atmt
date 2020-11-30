@@ -6,7 +6,7 @@ from queue import PriorityQueue
 
 class BeamSearch(object):
     """ Defines a beam search object for a single input sentence. """
-    def __init__(self, beam_size, max_len, pad):
+    def __init__(self, beam_size, max_len, pad, k_best):
 
         self.beam_size = beam_size
         self.max_len = max_len
@@ -16,6 +16,8 @@ class BeamSearch(object):
         self.final = PriorityQueue() # beams that ended in EOS
 
         self._counter = count() # for correct ordering of nodes with same score
+
+        self.k_best = k_best # adapted beam search from Li&Jurafsky2016
 
     def add(self, score, node):
         """ Adds a new beam search node to the queue of current nodes """
@@ -36,7 +38,7 @@ class BeamSearch(object):
             nodes.append((node[0], node[2]))
         return nodes
 
-    def get_best(self):
+    def get_best(self, k_best) :
         """ Returns final node with the lowest negative log probability """
         # Merge EOS paths and those that were stopped by
         # max sequence length (still in nodes)
@@ -49,10 +51,37 @@ class BeamSearch(object):
             node = self.nodes.get()
             merged.put(node)
 
-        node = merged.get()
-        node = (node[0], node[2])
+        nodes_list = []
+        # iterate over k_best values and return a list of tuples with
+        # [1x1] tensor (BS score value) and a <seq2seq.beam.BeamSearchNode object
+        for _ in range(self.k_best):
+            node = merged.get()
+            node = (node[0], node[2])
+            nodes_list.append(node)
+            # print(_)
 
-        return node
+        return nodes_list
+    
+    # def get_best(self, number):
+    #     """ Returns final node with the lowest negative log probability """
+    #     # Merge EOS paths and those that were stopped by
+    #     # max sequence length (still in nodes)
+    #     merged = PriorityQueue()
+    #     for _ in range(self.final.qsize()):
+    #         node = self.final.get()
+    #         merged.put(node)
+
+    #     for _ in range(self.nodes.qsize()):
+    #         node = self.nodes.get()
+    #         merged.put(node)
+
+    #     nodes = []
+    #     for _ in range(number):
+    #         node = merged.get()
+    #         node = (node[0], node[2])
+    #         nodes.append(node)
+
+    #     return nodes
 
     def prune(self):
         """ Removes all nodes but the beam_size best ones (lowest neg log prob) """
@@ -67,7 +96,10 @@ class BeamSearch(object):
 
 class BeamSearchNode(object):
     """ Defines a search node and stores values important for computation of beam search path"""
-    def __init__(self, search, emb, lstm_out, final_hidden, final_cell, mask, sequence, logProb, length, norm_constant):
+    def __init__(self, search, emb, lstm_out, 
+                 final_hidden, final_cell, mask, 
+                 sequence, logProb, length, norm_constant,
+                 k_best, gamma):
 
         # Attributes needed for computation of decoder states
         self.sequence = sequence
@@ -76,7 +108,9 @@ class BeamSearchNode(object):
         self.final_hidden = final_hidden
         self.final_cell = final_cell
         self.mask = mask
-        self.norm_constant = norm_constant
+        self.norm_constant = norm_constant # adapted beam search from Li&Jurafsky2016
+        self.k_best = k_best # adapted beam search from Li&Jurafsky2016
+        self.gamma = gamma
 
         # Attributes needed for computation of sequence score
         self.logp = logProb
@@ -86,5 +120,7 @@ class BeamSearchNode(object):
 
     def eval(self):
         """ Returns a normalized score of sequence up to this node """
-        
-        return self.logp/( ((5+self.length)**self.norm_constant) / (6**self.norm_constant) )
+        # add a regularizer to punish low ranking hypotheses from the same parent
+        # adapted beam search from Li&Jurafsky2016
+        punish_low_rank_hypotheses = self.gamma * self.k_best
+        return self.logp/( ((5+self.length)**self.norm_constant) / (6**self.norm_constant) ) - punish_low_rank_hypotheses

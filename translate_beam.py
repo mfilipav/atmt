@@ -30,6 +30,9 @@ def get_args():
     # Add beam search arguments
     parser.add_argument('--beam-size', default=5, type=int, help='number of hypotheses expanded in beam search')
     parser.add_argument('--norm-constant', default=0.65, type=float, help='constant for beam search length normalization')
+    parser.add_argument('--k-best', default=1, type=int, help='how many hypotheses to rank in adapted beam search')
+    parser.add_argument('--gamma', default=0.0, type=float, help='constant for punishing hypotheses descended from the same parent, used for adapted beam search')
+
 
     return parser.parse_args()
 
@@ -70,6 +73,7 @@ def main(args):
     progress_bar = tqdm(test_loader, desc='| Generation', leave=False)
 
     # Iterate over the test set
+    # TODO
     all_hyps = {}
     for i, sample in enumerate(progress_bar):
 
@@ -78,7 +82,7 @@ def main(args):
         batch_size = sample['src_tokens'].shape[0]
 
         # b) list of seq2seq.beam.BeamSearch objects, len=args.batch-size
-        searches = [BeamSearch(beam_size=args.beam_size, max_len=args.max_len - 1, pad=tgt_dict.unk_idx) for i in range(batch_size)]
+        searches = [BeamSearch(beam_size=args.beam_size, max_len=args.max_len - 1, pad=tgt_dict.unk_idx, k_best=args.k_best) for i in range(batch_size)]
         
         with torch.no_grad():
             # Compute the encoder output, a dict with:
@@ -138,6 +142,7 @@ def main(args):
                 node = BeamSearchNode(searches[i], emb, lstm_out, final_hidden, final_cell,
                                       mask, sequence=torch.cat((go_slice[i], next_word)), 
                                       logProb=log_p, length=1, norm_constant=args.norm_constant,
+                                      gamma=args.gamma, k_best=args.k_best,
                                 )
                 # __QUESTION 3: Why do we add the node with a negative score?
                 # Adds a new beam search node to the priority queue of current nodes
@@ -198,6 +203,7 @@ def main(args):
                                               node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
                                               next_word)), node.logp, node.length, 
                                               norm_constant=args.norm_constant,
+                                              gamma=args.gamma, k_best=args.k_best,
                                         )
                         # Adds a beam search path that ended in EOS (= finished sentence)
                         search.add_final(-node.eval(), node)
@@ -208,6 +214,7 @@ def main(args):
                                               node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
                                               next_word)), node.logp + log_p, node.length + 1, 
                                               norm_constant=args.norm_constant,
+                                              gamma=args.gamma, k_best=args.k_best,
                                         )
                         search.add(-node.eval(), node)
 
@@ -217,8 +224,16 @@ def main(args):
             for search in searches:
                 search.prune()
 
-        # Segment into sentences
-        best_sents = torch.stack([search.get_best()[1].sequence[1:].cpu() for search in searches])
+        # Segment into sentences, return a list with adaptive beam search
+        #best_sents = torch.stack( [search.get_best()[1].sequence[1:].cpu() for search in searches] )
+        nodes = search.get_best(args.k_best)
+        best_sents_list = []
+        for node in nodes:
+            node_best_sents = torch.stack([node[1].sequence[1:].cpu() for search in searches])
+            best_sents_list.append(node_best_sents)
+            
+        best_sents = torch.stack(best_sents_list)
+
         decoded_batch = best_sents.numpy()
 
         # [token_ids, EOS, PAD]
@@ -226,8 +241,7 @@ def main(args):
 
         # __QUESTION 6: What is the purpose of this for loop?
         # temp = output_sentences and contains batch_size items each with ids of vocabulary items up until EOS
-        # print("output_sentences before: ", output_sentences)
-
+        # print("output_sentences before: ", output_sentences)        
         temp = list()
         for sent in output_sentences:
             first_eos = np.where(sent == tgt_dict.eos_idx)[0]
@@ -241,8 +255,10 @@ def main(args):
         # Convert arrays of indices into strings of words
         output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
 
+        # TODO: adapt to take in multiple sents
         for ii, sent in enumerate(output_sentences):
-            all_hyps[int(sample['id'].data[ii])] = sent
+            all_hyps[int(sample['id'].data[ii])].append(sent)
+        
 
 
     # Write to file
