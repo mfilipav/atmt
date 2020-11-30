@@ -67,7 +67,7 @@ class BeamSearch(object):
 
 class BeamSearchNode(object):
     """ Defines a search node and stores values important for computation of beam search path"""
-    def __init__(self, search, emb, lstm_out, final_hidden, final_cell, mask, sequence, logProb, length):
+    def __init__(self, search, emb, lstm_out, final_hidden, final_cell, mask, sequence, logProb, length, norm_constant):
 
         # Attributes needed for computation of decoder states
         self.sequence = sequence
@@ -76,6 +76,7 @@ class BeamSearchNode(object):
         self.final_hidden = final_hidden
         self.final_cell = final_cell
         self.mask = mask
+        self.norm_constant = norm_constant
 
         # Attributes needed for computation of sequence score
         self.logp = logProb
@@ -85,4 +86,5 @@ class BeamSearchNode(object):
 
     def eval(self):
         """ Returns score of sequence up to this node """
-        return self.logp
+        
+        return self.logp/(self.length ** self.norm_constant)

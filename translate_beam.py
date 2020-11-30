@@ -29,6 +29,7 @@ def get_args():
 
     # Add beam search arguments
     parser.add_argument('--beam-size', default=5, type=int, help='number of hypotheses expanded in beam search')
+    parser.add_argument('--norm-constant', default=0.65, type=float, help='constant for beam search length normalization')
 
     return parser.parse_args()
 
@@ -108,7 +109,7 @@ def main(args):
             log_probs, next_candidates = torch.topk(input=torch.log(torch.softmax(decoder_out, dim=2)),
                                                     k=args.beam_size+1, dim=-1)
 
-            
+            # normalize log_probs
             
         # Create number of beam_size beam search nodes for every input sentence
         for i in range(batch_size):
@@ -136,7 +137,7 @@ def main(args):
                 # total: batch_size x beam_size 
                 node = BeamSearchNode(searches[i], emb, lstm_out, final_hidden, final_cell,
                                       mask, sequence=torch.cat((go_slice[i], next_word)), 
-                                      logProb=log_p, length=1
+                                      logProb=log_p, length=1, norm_constant=args.norm_constant,
                                 )
                 # __QUESTION 3: Why do we add the node with a negative score?
                 # Adds a new beam search node to the priority queue of current nodes
@@ -195,7 +196,9 @@ def main(args):
                     if next_word[-1 ] == tgt_dict.eos_idx:
                         node = BeamSearchNode(search, node.emb, node.lstm_out, node.final_hidden,
                                               node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
-                                              next_word)), node.logp, node.length)
+                                              next_word)), node.logp, node.length, 
+                                              norm_constant=args.norm_constant,
+                                        )
                         # Adds a beam search path that ended in EOS (= finished sentence)
                         search.add_final(-node.eval(), node)
 
@@ -203,7 +206,9 @@ def main(args):
                     else:
                         node = BeamSearchNode(search, node.emb, node.lstm_out, node.final_hidden,
                                               node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
-                                              next_word)), node.logp + log_p, node.length + 1)
+                                              next_word)), node.logp + log_p, node.length + 1, 
+                                              norm_constant=args.norm_constant,
+                                        )
                         search.add(-node.eval(), node)
 
             # __QUESTION 5: What happens internally when we prune our beams?
@@ -216,6 +221,7 @@ def main(args):
         best_sents = torch.stack([search.get_best()[1].sequence[1:].cpu() for search in searches])
         decoded_batch = best_sents.numpy()
 
+        # [token_ids, EOS, PAD]
         output_sentences = [decoded_batch[row, :] for row in range(decoded_batch.shape[0])]
 
         # __QUESTION 6: What is the purpose of this for loop?
@@ -229,8 +235,8 @@ def main(args):
                 temp.append(sent[:first_eos[0]])
             else:
                 temp.append(sent)
+        # only [token_ids]        
         output_sentences = temp
-        # print("output_sentences: ", output_sentences)
 
         # Convert arrays of indices into strings of words
         output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
