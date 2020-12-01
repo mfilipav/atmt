@@ -1,0 +1,3003 @@
+*** Top candidates are: 
+*** Top candidates are: 
+*** Top candidates are: 
+can I call any@@ body ?
+** Top k candidates: **
+can I ask any@@ body ?
+** Top k candidates: **
+can I call that who ?
+** Top k candidates: **
+there &apos;s a table .
+** Top k candidates: **
+there is a table .
+** Top k candidates: **
+it &apos;s a table .
+** Top k candidates: **
+the child is sle@@ ep@@ ing .
+** Top k candidates: **
+the now is sle@@ ep@@ ing .
+** Top k candidates: **
+the child is sle@@ ep@@ y .
+** Top k candidates: **
+he has pl@@ eas@@ ed .
+** Top k candidates: **
+he pl@@ ays the only one .
+** Top k candidates: **
+he has pl@@ eas@@ ed to the other .
+** Top k candidates: **
+get the out of here .
+** Top k candidates: **
+do the house here .
+** Top k candidates: **
+do this .
+** Top k candidates: **
+no one knows that .
+** Top k candidates: **
+no one knows it .
+** Top k candidates: **
+no , just just go .
+** Top k candidates: **
+call me when you want .
+** Top k candidates: **
+tell me when you want .
+** Top k candidates: **
+call me when you want to .
+** Top k candidates: **
+I took him out .
+** Top k candidates: **
+I took her h@@ am@@ f .
+** Top k candidates: **
+I took him the k@@ ey .
+** Top k candidates: **
+I need a drink .
+** Top k candidates: **
+I need a brea@@ k .
+** Top k candidates: **
+I need a pic@@ ture .
+** Top k candidates: **
+the train is ang@@ ry .
+** Top k candidates: **
+the train is bro@@ ken .
+** Top k candidates: **
+the train is in pri@@ ce .
+** Top k candidates: **
+you know all the world .
+** Top k candidates: **
+you know everything .
+** Top k candidates: **
+you know everybody .
+** Top k candidates: **
+I &apos;m not big .
+** Top k candidates: **
+I &apos;m not big !
+** Top k candidates: **
+I &apos;m not a big .
+** Top k candidates: **
+call you that .
+** Top k candidates: **
+do you remember that .
+** Top k candidates: **
+do you see that .
+** Top k candidates: **
+Tom didn &apos;t tell you ?
+** Top k candidates: **
+Tom doesn &apos;t tell you ?
+** Top k candidates: **
+Tom didn &apos;t tell you why ?
+** Top k candidates: **
+L@@ ay@@ la be here .
+** Top k candidates: **
+L@@ ay@@ la will be here .
+** Top k candidates: **
+L@@ ay@@ la go here .
+** Top k candidates: **
+he has been friends .
+** Top k candidates: **
+he has a lot of friends .
+** Top k candidates: **
+he has a lot of fun .
+** Top k candidates: **
+are you dres@@ sed ?
+** Top k candidates: **
+are you cr@@ ying ?
+** Top k candidates: **
+are you cr@@ azy ?
+** Top k candidates: **
+there is a lot of money .
+** Top k candidates: **
+there &apos;s a lot of money .
+** Top k candidates: **
+there &apos;s much money .
+** Top k candidates: **
+you &apos;re respon@@ sible .
+** Top k candidates: **
+you are respon@@ sible .
+** Top k candidates: **
+you &apos;re s@@ mar@@ t .
+** Top k candidates: **
+she &apos;s dis@@ ap@@ poin@@ ted .
+** Top k candidates: **
+she is dis@@ ap@@ poin@@ ted .
+** Top k candidates: **
+she is de@@ pri@@ sed .
+** Top k candidates: **
+Tom is a sur@@ pri@@ sed .
+** Top k candidates: **
+Tom is a p@@ sy@@ al .
+** Top k candidates: **
+Tom is a sur@@ pri@@ sed of f@@ is@@ n@@ y .
+** Top k candidates: **
+they &apos;re very pre@@ tty .
+** Top k candidates: **
+they &apos;re very ru@@ de .
+** Top k candidates: **
+they &apos;re very det@@ ai@@ led .
+** Top k candidates: **
+this is only a child .
+** Top k candidates: **
+it &apos;s only a child .
+** Top k candidates: **
+that &apos;s only a child .
+** Top k candidates: **
+I like a lot of love .
+** Top k candidates: **
+I like lot of love .
+** Top k candidates: **
+I like a lot .
+** Top k candidates: **
+are you tired ?
+** Top k candidates: **
+are you read ?
+** Top k candidates: **
+are you dr@@ a@@ ked ?
+** Top k candidates: **
+my mother is alone .
+** Top k candidates: **
+my mother is hard .
+** Top k candidates: **
+my mother is only alone .
+** Top k candidates: **
+are you a secon@@ d ?
+** Top k candidates: **
+do you have a secon@@ d ?
+** Top k candidates: **
+you have a secon@@ d ?
+** Top k candidates: **
+this is a teacher .
+** Top k candidates: **
+this is a p@@ ast .
+** Top k candidates: **
+this is a li@@ st .
+** Top k candidates: **
+I &apos;ll do the door ?
+** Top k candidates: **
+I &apos;ll do it ?
+** Top k candidates: **
+I &apos;ll do that ?
+** Top k candidates: **
+Tom is d@@ ead .
+** Top k candidates: **
+Tom is b@@ ab@@ y .
+** Top k candidates: **
+Tom is b@@ un@@ y .
+** Top k candidates: **
+I love this h@@ ead .
+** Top k candidates: **
+I love this sho@@ p .
+** Top k candidates: **
+I love this b@@ ill .
+** Top k candidates: **
+you can tell me everything .
+** Top k candidates: **
+you can &apos;t tell me everything .
+** Top k candidates: **
+you can like me .
+** Top k candidates: **
+do you have any questions ?
+** Top k candidates: **
+do you have any more questions ?
+** Top k candidates: **
+do you have any kind of questions ?
+** Top k candidates: **
+do you think it ?
+** Top k candidates: **
+do you think it are ?
+** Top k candidates: **
+do you think it is ?
+** Top k candidates: **
+Tom was at the time .
+** Top k candidates: **
+Tom was in time .
+** Top k candidates: **
+Tom was at once .
+** Top k candidates: **
+I want to sleep .
+** Top k candidates: **
+I want to leave .
+** Top k candidates: **
+I want to talk to you .
+** Top k candidates: **
+is this your wife ?
+** Top k candidates: **
+is that your wife ?
+** Top k candidates: **
+is this your wife .
+** Top k candidates: **
+it &apos;s very s@@ mar@@ t .
+** Top k candidates: **
+it &apos;s very ser@@ i@@ ous .
+** Top k candidates: **
+it &apos;s a s@@ mar@@ t .
+** Top k candidates: **
+don &apos;t drink enough .
+** Top k candidates: **
+no one of the f@@ lo@@ or .
+** Top k candidates: **
+don &apos;t have enough m@@ em@@ ory .
+** Top k candidates: **
+did you learn it ?
+** Top k candidates: **
+do you have any under@@ sto@@ od ?
+** Top k candidates: **
+do you have any shi@@ r@@ t ?
+** Top k candidates: **
+you &apos;re my language .
+** Top k candidates: **
+you &apos;re my house .
+** Top k candidates: **
+you &apos;re my d@@ anger .
+** Top k candidates: **
+they ru@@ in@@ ed it .
+** Top k candidates: **
+they ru@@ in@@ ed him .
+** Top k candidates: **
+they have it .
+** Top k candidates: **
+that won &apos;t change anything .
+** Top k candidates: **
+it won &apos;t change anything .
+** Top k candidates: **
+that doesn &apos;t change anything .
+** Top k candidates: **
+I &apos;m po@@ or .
+** Top k candidates: **
+I &apos;m gl@@ ad .
+** Top k candidates: **
+I am po@@ or .
+** Top k candidates: **
+everyone saw you .
+** Top k candidates: **
+everybody saw you .
+** Top k candidates: **
+everyone looks .
+** Top k candidates: **
+wait a little .
+** Top k candidates: **
+get a little .
+** Top k candidates: **
+wait a little a little !
+** Top k candidates: **
+I &apos;m going to go there .
+** Top k candidates: **
+I go to go there .
+** Top k candidates: **
+I &apos;ll go to go there .
+** Top k candidates: **
+I read a letter .
+** Top k candidates: **
+I read another letter .
+** Top k candidates: **
+I hate a letter .
+** Top k candidates: **
+she clo@@ sed the door .
+** Top k candidates: **
+she will clo@@ se me .
+** Top k candidates: **
+she clo@@ sed me .
+** Top k candidates: **
+let &apos;s try it .
+** Top k candidates: **
+let &apos;s try this .
+** Top k candidates: **
+leave it .
+** Top k candidates: **
+I &apos;m a friend .
+** Top k candidates: **
+I am a friend .
+** Top k candidates: **
+I &apos;m an friend .
+** Top k candidates: **
+what is the idea ?
+** Top k candidates: **
+what &apos;s the idea ?
+** Top k candidates: **
+what &apos;s the idea of ?
+** Top k candidates: **
+he was pati@@ ent .
+** Top k candidates: **
+he was pati@@ ence .
+** Top k candidates: **
+he was made .
+** Top k candidates: **
+Tom could do that .
+** Top k candidates: **
+Tom could do this .
+** Top k candidates: **
+Tom should do that .
+** Top k candidates: **
+P@@ ar@@ k !
+** Top k candidates: **
+be@@ er !
+** Top k candidates: **
+be@@ er .
+** Top k candidates: **
+that &apos;s exac@@ t .
+** Top k candidates: **
+that &apos;s exac@@ tly .
+** Top k candidates: **
+this is correc@@ t .
+** Top k candidates: **
+we need to give us .
+** Top k candidates: **
+we must give us .
+** Top k candidates: **
+we need to go .
+** Top k candidates: **
+I want to eat you .
+** Top k candidates: **
+I want to eat .
+** Top k candidates: **
+I want to talk to you .
+** Top k candidates: **
+it &apos;s very good .
+** Top k candidates: **
+that &apos;s very good .
+** Top k candidates: **
+this is very good .
+** Top k candidates: **
+you &apos;re cr@@ azy .
+** Top k candidates: **
+you &apos;re p@@ ale .
+** Top k candidates: **
+you &apos;re p@@ un@@ able .
+** Top k candidates: **
+call a doctor !
+** Top k candidates: **
+call a doctor .
+** Top k candidates: **
+believe a doctor !
+** Top k candidates: **
+we want Tom .
+** Top k candidates: **
+we want Tom to leave .
+** Top k candidates: **
+we want to leave .
+** Top k candidates: **
+it &apos;s cold .
+** Top k candidates: **
+he is cold .
+** Top k candidates: **
+he &apos;s cold .
+** Top k candidates: **
+bed .
+** Top k candidates: **
+bed at bed !
+** Top k candidates: **
+bed bed .
+** Top k candidates: **
+I can go to the week .
+** Top k candidates: **
+I can go to the other week .
+** Top k candidates: **
+I can go there next week .
+** Top k candidates: **
+stay out of water !
+** Top k candidates: **
+stay in water .
+** Top k candidates: **
+stay in water !
+** Top k candidates: **
+they should all they dis@@ gu@@ st@@ ed .
+** Top k candidates: **
+they should all they dec@@ i@@ ed .
+** Top k candidates: **
+they should all they dis@@ gu@@ il@@ ed .
+** Top k candidates: **
+tell me your h@@ air .
+** Top k candidates: **
+tell me your h@@ us@@ k@@ o .
+** Top k candidates: **
+tell me your h@@ us@@ b@@ and .
+** Top k candidates: **
+do you want me to help you ?
+** Top k candidates: **
+do you want to help you ?
+** Top k candidates: **
+do you want you to help you ?
+** Top k candidates: **
+she took him dis@@ ap@@ poin@@ ted .
+** Top k candidates: **
+she took her de@@ t@@ end@@ ed .
+** Top k candidates: **
+she took him de@@ p@@ ted .
+** Top k candidates: **
+m@@ om out the door .
+** Top k candidates: **
+m@@ ea@@ l out the door .
+** Top k candidates: **
+m@@ ea@@ l out of the door .
+** Top k candidates: **
+I really like a bi@@ ke .
+** Top k candidates: **
+I really like a do@@ gs .
+** Top k candidates: **
+I really like a pi@@ e@@ f .
+** Top k candidates: **
+you don &apos;t know , do you ?
+** Top k candidates: **
+you don &apos;t know , so you ?
+** Top k candidates: **
+you don &apos;t have , so ?
+** Top k candidates: **
+I &apos;m de@@ p@@ el@@ ate .
+** Top k candidates: **
+I &apos;m de@@ p@@ el@@ ed .
+** Top k candidates: **
+I &apos;m so de@@ st@@ ing .
+** Top k candidates: **
+you remember your brother .
+** Top k candidates: **
+you &apos;re s@@ af@@ e with your brother .
+** Top k candidates: **
+you &apos;re s@@ af@@ e to me .
+** Top k candidates: **
+it was very ru@@ de .
+** Top k candidates: **
+it was very pl@@ eas@@ ed .
+** Top k candidates: **
+it was very pl@@ ent@@ y .
+** Top k candidates: **
+do you know where the oth@@ ers ?
+** Top k candidates: **
+do you know where ?
+** Top k candidates: **
+do you know where it are ?
+** Top k candidates: **
+Tom nee@@ ds to do that now .
+** Top k candidates: **
+Tom need to do that now .
+** Top k candidates: **
+Tom nee@@ ded to do that now .
+** Top k candidates: **
+she &apos;s sin@@ g@@ ing the children .
+** Top k candidates: **
+she &apos;s lear@@ ning .
+** Top k candidates: **
+she &apos;s lear@@ ned .
+** Top k candidates: **
+Tom is more intelli@@ gent than me .
+** Top k candidates: **
+Tom is more than me .
+** Top k candidates: **
+Tom is more than me to me .
+** Top k candidates: **
+is there your friends ?
+** Top k candidates: **
+is he your friends ?
+** Top k candidates: **
+is it your friends ?
+** Top k candidates: **
+it &apos;s very easy to work .
+** Top k candidates: **
+that &apos;s very easy to work .
+** Top k candidates: **
+it &apos;s very easy to be a job .
+** Top k candidates: **
+I don &apos;t want to dri@@ ve Mary .
+** Top k candidates: **
+I don &apos;t want to eat Mary .
+** Top k candidates: **
+I don &apos;t want to answ@@ er Mary .
+** Top k candidates: **
+I &apos;ll be leav@@ ing this ev@@ en@@ ing .
+** Top k candidates: **
+I &apos;ll be leav@@ ing this night .
+** Top k candidates: **
+I &apos;m gl@@ ad to get this ev@@ en@@ ing .
+** Top k candidates: **
+what &apos;s this lives ?
+** Top k candidates: **
+what &apos;s this co@@ st ?
+** Top k candidates: **
+what &apos;s this co@@ ol ?
+** Top k candidates: **
+that makes me !
+** Top k candidates: **
+that makes me up !
+** Top k candidates: **
+that makes me .
+** Top k candidates: **
+he be@@ came back .
+** Top k candidates: **
+he be@@ came so@@ f@@ ly .
+** Top k candidates: **
+he be@@ came so@@ on@@ ed .
+** Top k candidates: **
+he has been to vis@@ it .
+** Top k candidates: **
+he has been to rain .
+** Top k candidates: **
+he hope the rain .
+** Top k candidates: **
+he doesn &apos;t like you .
+** Top k candidates: **
+he won &apos;t get you .
+** Top k candidates: **
+he won &apos;t be you .
+** Top k candidates: **
+what are you going to do ?
+** Top k candidates: **
+what are you doing to do ?
+** Top k candidates: **
+what are you sup@@ pos@@ ed to do ?
+** Top k candidates: **
+he gave me to try it .
+** Top k candidates: **
+he gave me to try .
+** Top k candidates: **
+he gave me .
+** Top k candidates: **
+he has a few days l@@ ater .
+** Top k candidates: **
+he has a lot of more days .
+** Top k candidates: **
+he has a few days l@@ ater , .
+** Top k candidates: **
+I thought you &apos;d be here .
+** Top k candidates: **
+I thought you would be here .
+** Top k candidates: **
+I thought you &apos;ll be here .
+** Top k candidates: **
+I don &apos;t like to trav@@ el alone .
+** Top k candidates: **
+I don &apos;t like trav@@ el alone .
+** Top k candidates: **
+I don &apos;t like trav@@ el .
+** Top k candidates: **
+do you have any parents ?
+** Top k candidates: **
+are you going to parents your parents ?
+** Top k candidates: **
+do you have a parents ?
+** Top k candidates: **
+he can come there .
+** Top k candidates: **
+he can come to work .
+** Top k candidates: **
+he can come to be alone .
+** Top k candidates: **
+I for@@ got to tell him .
+** Top k candidates: **
+I for@@ got to say .
+** Top k candidates: **
+I for@@ got to tell her .
+** Top k candidates: **
+did you meet him ?
+** Top k candidates: **
+did you met him ?
+** Top k candidates: **
+did you met it already ?
+** Top k candidates: **
+I &apos;m tired of reading .
+** Top k candidates: **
+I &apos;m tired of read .
+** Top k candidates: **
+I &apos;m tired of love .
+** Top k candidates: **
+we have no idea time .
+** Top k candidates: **
+we have no time .
+** Top k candidates: **
+we have no idea .
+** Top k candidates: **
+I smo@@ ke .
+** Top k candidates: **
+I smo@@ ke to fi@@ re .
+** Top k candidates: **
+I smo@@ ke to fi@@ ve .
+** Top k candidates: **
+we &apos;ve got up together .
+** Top k candidates: **
+we have been k@@ illed .
+** Top k candidates: **
+we have been k@@ illed together .
+** Top k candidates: **
+what &apos;s he arriv@@ ed at the dog ?
+** Top k candidates: **
+what is the dog in Jap@@ an ?
+** Top k candidates: **
+what is the dog in Jap@@ an
+** Top k candidates: **
+I &apos;m not p@@ ale .
+** Top k candidates: **
+I &apos;m not p@@ un@@ able .
+** Top k candidates: **
+I &apos;m not p@@ un@@ n@@ y .
+** Top k candidates: **
+they didn &apos;t do it .
+** Top k candidates: **
+they didn &apos;t know him .
+** Top k candidates: **
+they won &apos;t do it .
+** Top k candidates: **
+let &apos;s get your h@@ am@@ f .
+** Top k candidates: **
+let &apos;s get your h@@ at .
+** Top k candidates: **
+let &apos;s get your ar@@ ree .
+** Top k candidates: **
+we &apos;ve been in@@ vol@@ ved .
+** Top k candidates: **
+we &apos;ve been ab@@ er@@ i@@ ous .
+** Top k candidates: **
+we &apos;ve been in@@ v@@ it@@ ted .
+** Top k candidates: **
+you &apos;ve chang@@ ed a lot .
+** Top k candidates: **
+you &apos;ve chang@@ ed a lot of ad@@ vice .
+** Top k candidates: **
+you &apos;ve chang@@ ed to cho@@ ose .
+** Top k candidates: **
+who told you ?
+** Top k candidates: **
+who gave you ?
+** Top k candidates: **
+who did you ?
+** Top k candidates: **
+don &apos;t you know his name ?
+** Top k candidates: **
+do you know his name ?
+** Top k candidates: **
+don &apos;t you know her name ?
+** Top k candidates: **
+is that going to me ?
+** Top k candidates: **
+does that go to me ?
+** Top k candidates: **
+does it show me ?
+** Top k candidates: **
+Tom is f@@ un@@ ming to money .
+** Top k candidates: **
+Tom is f@@ un@@ ming .
+** Top k candidates: **
+Tom is f@@ un@@ ning .
+** Top k candidates: **
+they &apos;re not in the fu@@ ture .
+** Top k candidates: **
+they &apos;re not on the fu@@ ture .
+** Top k candidates: **
+they &apos;re not in the st@@ ai@@ re .
+** Top k candidates: **
+I &apos;m sorry !
+** Top k candidates: **
+I &apos;m aw@@ ake !
+** Top k candidates: **
+I &apos;m s@@ mar@@ t !
+** Top k candidates: **
+have you tried this water ?
+** Top k candidates: **
+did you try this water ?
+** Top k candidates: **
+have you tried that water ?
+** Top k candidates: **
+you &apos;re pre@@ tty than Mary .
+** Top k candidates: **
+you &apos;re pre@@ tty as Mary .
+** Top k candidates: **
+you &apos;re qu@@ ite than Mary .
+** Top k candidates: **
+you &apos;re too old for me .
+** Top k candidates: **
+you &apos;re too old to me .
+** Top k candidates: **
+you &apos;re too old to give me .
+** Top k candidates: **
+the ex@@ per@@ i@@ ence is true .
+** Top k candidates: **
+the concer@@ t is true .
+** Top k candidates: **
+the ex@@ per@@ i@@ ence is just true .
+** Top k candidates: **
+I &apos;d like to go to go .
+** Top k candidates: **
+I &apos;d like to go to go there .
+** Top k candidates: **
+I &apos;d like to be just go .
+** Top k candidates: **
+I have everything .
+** Top k candidates: **
+I &apos;ve got everything .
+** Top k candidates: **
+I &apos;ve got all the windo@@ ws .
+** Top k candidates: **
+I &apos;m really st@@ ay@@ ing .
+** Top k candidates: **
+I &apos;m really going to fi@@ re .
+** Top k candidates: **
+I &apos;m really going to be .
+** Top k candidates: **
+he wri@@ tten a letter .
+** Top k candidates: **
+he wri@@ tten a house .
+** Top k candidates: **
+he wri@@ tten a good letter .
+** Top k candidates: **
+th@@ ank you , that will be all .
+** Top k candidates: **
+th@@ ank you , that would be all .
+** Top k candidates: **
+th@@ ank you , that will be everything .
+** Top k candidates: **
+they want to see you .
+** Top k candidates: **
+they want to meet you .
+** Top k candidates: **
+they want you to see .
+** Top k candidates: **
+we &apos;re in love with my mind .
+** Top k candidates: **
+we &apos;re in love with my h@@ ead .
+** Top k candidates: **
+we &apos;re in love with my d@@ anger .
+** Top k candidates: **
+I &apos;d like to help you .
+** Top k candidates: **
+I &apos;d like to help you so .
+** Top k candidates: **
+I &apos;d like to help you if you &apos;re going to .
+** Top k candidates: **
+she seems like all alone .
+** Top k candidates: **
+she seems like all .
+** Top k candidates: **
+she seems to learn all .
+** Top k candidates: **
+I &apos;m Tom .
+** Top k candidates: **
+I am Tom .
+** Top k candidates: **
+I &apos;m Tom sin@@ ger .
+** Top k candidates: **
+it was a pres@@ ent .
+** Top k candidates: **
+it was a pres@@ i@@ al pers@@ on@@ al .
+** Top k candidates: **
+it was a pres@@ ent @-@ s@@ ati@@ s@@ ati@@ c .
+** Top k candidates: **
+you should &apos;ve hur@@ ry .
+** Top k candidates: **
+you should &apos;ve hur@@ t .
+** Top k candidates: **
+you should &apos;ve come out .
+** Top k candidates: **
+when did he hear me ?
+** Top k candidates: **
+when did he hear a pian@@ ist ?
+** Top k candidates: **
+does someone have a doc@@ tor@@ se ?
+** Top k candidates: **
+do you have any w@@ ine ?
+** Top k candidates: **
+is that all you &apos;re right ?
+** Top k candidates: **
+do you want to dis@@ co@@ ok ?
+** Top k candidates: **
+I don &apos;t have a sho@@ w@@ er .
+** Top k candidates: **
+I don &apos;t have a sho@@ t .
+** Top k candidates: **
+I don &apos;t have a lot of gu@@ ess .
+** Top k candidates: **
+she took back in his shi@@ c@@ es .
+** Top k candidates: **
+she took back in his shi@@ r@@ t .
+** Top k candidates: **
+she took back to his shi@@ r@@ t .
+** Top k candidates: **
+how can I stand ?
+** Top k candidates: **
+how did I sup@@ pos@@ ed to eat ?
+** Top k candidates: **
+how did I sup@@ pos@@ ed ?
+** Top k candidates: **
+I &apos;ll be happy with you .
+** Top k candidates: **
+I &apos;ll be happy to you with you .
+** Top k candidates: **
+I &apos;ll play with you with you .
+** Top k candidates: **
+please get your own po@@ or .
+** Top k candidates: **
+please get up .
+** Top k candidates: **
+please get your own own .
+** Top k candidates: **
+Tom was the sur@@ viv@@ ors .
+** Top k candidates: **
+Tom was one of the ex@@ per@@ i@@ ence .
+** Top k candidates: **
+Tom was one of the sur@@ viv@@ ors .
+** Top k candidates: **
+I &apos;m so sh@@ all .
+** Top k candidates: **
+I &apos;m so sup@@ port .
+** Top k candidates: **
+I &apos;m so re@@ as@@ on .
+** Top k candidates: **
+you &apos;re not pre@@ tty than me .
+** Top k candidates: **
+you &apos;re not sure than me .
+** Top k candidates: **
+you &apos;re not as little as me .
+** Top k candidates: **
+can you keep this ?
+** Top k candidates: **
+can you just get this ?
+** Top k candidates: **
+can you just get that ?
+** Top k candidates: **
+I have to find your d@@ augh@@ ter .
+** Top k candidates: **
+I have to get your d@@ augh@@ ter .
+** Top k candidates: **
+I have to get your h@@ ead .
+** Top k candidates: **
+it &apos;s not my d@@ ea@@ l .
+** Top k candidates: **
+it &apos;s not my d@@ el@@ f .
+** Top k candidates: **
+it &apos;s not my d@@ ea@@ k .
+** Top k candidates: **
+she doesn &apos;t even said .
+** Top k candidates: **
+she didn &apos;t even tell you .
+** Top k candidates: **
+she didn &apos;t even tell th@@ ank .
+** Top k candidates: **
+don &apos;t try to do that anymore .
+** Top k candidates: **
+don &apos;t try to do that .
+** Top k candidates: **
+don &apos;t try to do this .
+** Top k candidates: **
+you &apos;re all ner@@ vous !
+** Top k candidates: **
+you &apos;re all pre@@ tty ner@@ vous !
+** Top k candidates: **
+you &apos;re all right .
+** Top k candidates: **
+I &apos;m very im@@ pr@@ ess@@ ed .
+** Top k candidates: **
+I &apos;m very pr@@ ess@@ ed .
+** Top k candidates: **
+I &apos;m very det@@ ai@@ ve .
+** Top k candidates: **
+I know I can do more .
+** Top k candidates: **
+I know I can do that more .
+** Top k candidates: **
+I know I can do that more early .
+** Top k candidates: **
+this ro@@ ad is not wor@@ th .
+** Top k candidates: **
+this ro@@ ad is not s@@ mi@@ le .
+** Top k candidates: **
+this ro@@ ad is not s@@ ati@@ s@@ fi@@ ed .
+** Top k candidates: **
+don &apos;t tou@@ ch anything .
+** Top k candidates: **
+don &apos;t tou@@ ch nothing .
+** Top k candidates: **
+don &apos;t tou@@ ch anything to be .
+** Top k candidates: **
+better you don &apos;t think about it .
+** Top k candidates: **
+better you don &apos;t want to think .
+** Top k candidates: **
+better you don &apos;t think about that .
+** Top k candidates: **
+she has to see me again .
+** Top k candidates: **
+she wanted to see me again .
+** Top k candidates: **
+she wanted to see me .
+** Top k candidates: **
+I didn &apos;t know how to sol@@ ve .
+** Top k candidates: **
+I didn &apos;t know how to sleep .
+** Top k candidates: **
+I don &apos;t know how to sol@@ ve .
+** Top k candidates: **
+I know Tom doesn &apos;t like Mary .
+** Top k candidates: **
+I know Tom didn &apos;t like Mary .
+** Top k candidates: **
+I know Tom don &apos;t like Mary .
+** Top k candidates: **
+I &apos;d like to come back .
+** Top k candidates: **
+I &apos;m trying to be qui@@ et .
+** Top k candidates: **
+I &apos;d like to be qui@@ et .
+** Top k candidates: **
+he spea@@ ks as if he had everything .
+** Top k candidates: **
+he spea@@ ks as if he knew everything .
+** Top k candidates: **
+he spea@@ ks as much as he knew everything .
+** Top k candidates: **
+I &apos;m very im@@ pr@@ ess@@ ed .
+** Top k candidates: **
+I &apos;m very pre@@ tty .
+** Top k candidates: **
+I &apos;m very det@@ ai@@ ve .
+** Top k candidates: **
+th@@ ank you of the de@@ ath .
+** Top k candidates: **
+th@@ ank you of the de@@ ath is .
+** Top k candidates: **
+th@@ ank you of the de@@ ath as a lot .
+** Top k candidates: **
+you &apos;re going to be qui@@ et .
+** Top k candidates: **
+you &apos;re a teacher for that .
+** Top k candidates: **
+you &apos;re going to go out .
+** Top k candidates: **
+you &apos;ll have everything .
+** Top k candidates: **
+you &apos;ll have everything of everything .
+** Top k candidates: **
+you &apos;ll pre@@ su@@ ts everything .
+** Top k candidates: **
+he likes wal@@ ks in the par@@ k .
+** Top k candidates: **
+he likes to mar@@ ry in the par@@ k .
+** Top k candidates: **
+he likes to wal@@ k in the par@@ k .
+** Top k candidates: **
+a long was mis@@ sed .
+** Top k candidates: **
+a long was been k@@ illed .
+** Top k candidates: **
+a long has been k@@ illed .
+** Top k candidates: **
+I think Tom is fai@@ r .
+** Top k candidates: **
+I think Tom is fai@@ led .
+** Top k candidates: **
+I think Tom is in@@ side .
+** Top k candidates: **
+it &apos;s a good way .
+** Top k candidates: **
+it &apos;s a good ap@@ petite .
+** Top k candidates: **
+it &apos;s a good mother .
+** Top k candidates: **
+please show her .
+** Top k candidates: **
+get her at her , I &apos;ll go .
+** Top k candidates: **
+get her at her , I &apos;ll be .
+** Top k candidates: **
+look at the comp@@ any .
+** Top k candidates: **
+look at the fu@@ ture .
+** Top k candidates: **
+look at the fu@@ ck .
+** Top k candidates: **
+Tom doesn &apos;t like c@@ ats .
+** Top k candidates: **
+Tom doesn &apos;t like c@@ le@@ an .
+** Top k candidates: **
+Tom doesn &apos;t like c@@ at@@ ch .
+** Top k candidates: **
+I lost the h@@ at time .
+** Top k candidates: **
+I lost the h@@ at the time .
+** Top k candidates: **
+I lost the z@@ er@@ o .
+** Top k candidates: **
+does Tom be@@ come cr@@ azy ?
+** Top k candidates: **
+does Tom be@@ come be@@ er ?
+** Top k candidates: **
+is Tom still be@@ come ?
+** Top k candidates: **
+he has chang@@ ed .
+** Top k candidates: **
+he has chang@@ ed for ad@@ dress .
+** Top k candidates: **
+he has chang@@ ed for a lot .
+** Top k candidates: **
+come with me at the station .
+** Top k candidates: **
+come with me to the station .
+** Top k candidates: **
+come with me the station .
+** Top k candidates: **
+why don &apos;t you do it ?
+** Top k candidates: **
+why didn &apos;t you do it ?
+** Top k candidates: **
+why don &apos;t you do that ?
+** Top k candidates: **
+Tom was a hun@@ ger .
+** Top k candidates: **
+Tom was a hun@@ k .
+** Top k candidates: **
+Tom was a g@@ e@@ te .
+** Top k candidates: **
+I took a gl@@ ass .
+** Top k candidates: **
+I took a gl@@ ass@@ es .
+** Top k candidates: **
+I took a gl@@ ass@@ er .
+** Top k candidates: **
+the co@@ ok is interes@@ ting .
+** Top k candidates: **
+the co@@ at is interes@@ ting .
+** Top k candidates: **
+the co@@ o@@ king is interes@@ ting .
+** Top k candidates: **
+I don &apos;t drink .
+** Top k candidates: **
+I don &apos;t drink out .
+** Top k candidates: **
+I don &apos;t drink out of w@@ ine .
+** Top k candidates: **
+what are you going to do ?
+** Top k candidates: **
+what are you doing ?
+** Top k candidates: **
+what are you doing to do ?
+** Top k candidates: **
+do you have any h@@ ir@@ er ?
+** Top k candidates: **
+do you have any f@@ avo@@ ri@@ te ?
+** Top k candidates: **
+do you have any h@@ ir@@ t ?
+** Top k candidates: **
+I still have things to do .
+** Top k candidates: **
+I still have any things to do .
+** Top k candidates: **
+I still have a things to do .
+** Top k candidates: **
+are you going to help ?
+** Top k candidates: **
+do you stay in ?
+** Top k candidates: **
+did you stay in ?
+** Top k candidates: **
+Tom put a be@@ er .
+** Top k candidates: **
+Tom has been a be@@ er .
+** Top k candidates: **
+Tom has been a new be@@ er .
+** Top k candidates: **
+we &apos;ll get out of me .
+** Top k candidates: **
+we &apos;ll get out of a thing .
+** Top k candidates: **
+we &apos;ll get out of a .
+** Top k candidates: **
+how much did you get out of k@@ ey ?
+** Top k candidates: **
+how much did you get up ?
+** Top k candidates: **
+how much did you get out ?
+** Top k candidates: **
+you &apos;ll be only one who can live .
+** Top k candidates: **
+you &apos;ll be only one who &apos;d see him .
+** Top k candidates: **
+you &apos;ll be only one who can .
+** Top k candidates: **
+do you want me ?
+** Top k candidates: **
+do you know what you &apos;re doing ?
+** Top k candidates: **
+do you want me to help ?
+** Top k candidates: **
+what did he do you ?
+** Top k candidates: **
+what did he do that you ?
+** Top k candidates: **
+what did he did that ?
+** Top k candidates: **
+I think I know the answ@@ er .
+** Top k candidates: **
+I think I &apos;ll take the answ@@ er .
+** Top k candidates: **
+I think I &apos;ll get the answ@@ er .
+** Top k candidates: **
+can you read what that said ?
+** Top k candidates: **
+can you read what it said ?
+** Top k candidates: **
+can you read what this told that ?
+** Top k candidates: **
+she was working for a man .
+** Top k candidates: **
+she was looking for a man .
+** Top k candidates: **
+she was working for a ti@@ ght man .
+** Top k candidates: **
+these co@@ ds are differ@@ ent .
+** Top k candidates: **
+these all are differ@@ ent .
+** Top k candidates: **
+these all the differ@@ ent .
+** Top k candidates: **
+th@@ ank you for you .
+** Top k candidates: **
+th@@ ank you to be in@@ vin@@ ced .
+** Top k candidates: **
+th@@ ank you to be in@@ vol@@ ved .
+** Top k candidates: **
+I don &apos;t know if I can stay .
+** Top k candidates: **
+I don &apos;t know if I can go .
+** Top k candidates: **
+I don &apos;t know if I can talk .
+** Top k candidates: **
+she &apos;s looking for the car .
+** Top k candidates: **
+she is looking for the car .
+** Top k candidates: **
+she &apos;s looking now .
+** Top k candidates: **
+I won@@ der where Tom and Mary are .
+** Top k candidates: **
+I won@@ der where Tom and Mary came .
+** Top k candidates: **
+I won@@ der where Tom and Mary are d@@ ead .
+** Top k candidates: **
+what is this time ?
+** Top k candidates: **
+what is this time for that time ?
+** Top k candidates: **
+what is this time to happen ?
+** Top k candidates: **
+do I miss something , this morning ?
+** Top k candidates: **
+do I miss something , what was this morning ?
+** Top k candidates: **
+do I miss something , what was that ?
+** Top k candidates: **
+what did you do for dinner ?
+** Top k candidates: **
+what did you do with dinner ?
+** Top k candidates: **
+what did you find out of your dinner ?
+** Top k candidates: **
+Tom is a s@@ af@@ e in the k@@ ey .
+** Top k candidates: **
+Tom is a s@@ af@@ e f@@ our .
+** Top k candidates: **
+Tom is a s@@ af@@ e in the re@@ as@@ ons .
+** Top k candidates: **
+I heard that you were good French .
+** Top k candidates: **
+I heard tell you you were good French .
+** Top k candidates: **
+I heard tell you that you were good French .
+** Top k candidates: **
+all you must do that .
+** Top k candidates: **
+all you must do it .
+** Top k candidates: **
+all you have to do that .
+** Top k candidates: **
+what are these be@@ came ?
+** Top k candidates: **
+what are these we@@ ight ?
+** Top k candidates: **
+what are these be@@ h@@ ind ?
+** Top k candidates: **
+is this your bicy@@ cle ?
+** Top k candidates: **
+is it your bicy@@ cle ?
+** Top k candidates: **
+is that your bicy@@ cle ?
+** Top k candidates: **
+she &apos;s going to do it .
+** Top k candidates: **
+she &apos;s going to do the v@@ illage .
+** Top k candidates: **
+she &apos;s going to do the d@@ anger .
+** Top k candidates: **
+I love the s@@ cen@@ e of his name .
+** Top k candidates: **
+I love the hor@@ se of his name .
+** Top k candidates: **
+I love the hor@@ se of her name .
+** Top k candidates: **
+tell me your life .
+** Top k candidates: **
+speak me your life .
+** Top k candidates: **
+tell me your life of your life .
+** Top k candidates: **
+I don &apos;t remember that .
+** Top k candidates: **
+I don &apos;t remember this .
+** Top k candidates: **
+I don &apos;t feel like that .
+** Top k candidates: **
+the fil@@ m wasn &apos;t so much .
+** Top k candidates: **
+the fil@@ m wasn &apos;t so much g@@ ain .
+** Top k candidates: **
+the fil@@ m wasn &apos;t so much a di@@ v@@ ati@@ ve .
+** Top k candidates: **
+he has the bo@@ x on the table .
+** Top k candidates: **
+he turned the bo@@ x on the table .
+** Top k candidates: **
+he looks the bo@@ x on the table .
+** Top k candidates: **
+I have a lot of hom@@ e@@ work .
+** Top k candidates: **
+I have a lot of people to trav@@ el .
+** Top k candidates: **
+I have a lot of people to trav@@ et .
+** Top k candidates: **
+I saw him like the meeting .
+** Top k candidates: **
+I saw him like the d@@ ea@@ l .
+** Top k candidates: **
+I saw him wh@@ at@@ ever .
+** Top k candidates: **
+you &apos;re lu@@ ck@@ y to have a job .
+** Top k candidates: **
+you &apos;re lu@@ ck@@ y of a job .
+** Top k candidates: **
+you &apos;re lu@@ ck@@ y to be a job .
+** Top k candidates: **
+that &apos;s what I &apos;m going to do .
+** Top k candidates: **
+that &apos;s what I &apos;ll do .
+** Top k candidates: **
+it &apos;s what I &apos;m going to do .
+** Top k candidates: **
+this room is sur@@ pri@@ sed .
+** Top k candidates: **
+this room is sur@@ viv@@ sed .
+** Top k candidates: **
+this room is ex@@ per@@ i@@ ent .
+** Top k candidates: **
+I know Tom is a little person .
+** Top k candidates: **
+I know Tom is a little bit .
+** Top k candidates: **
+I know Tom is a bit str@@ on@@ al .
+** Top k candidates: **
+he will resp@@ ect his po@@ or .
+** Top k candidates: **
+he will resp@@ ect her p@@ air .
+** Top k candidates: **
+he will resp@@ ect his own p@@ ale .
+** Top k candidates: **
+I have a dou@@ ble sho@@ w@@ er .
+** Top k candidates: **
+I have a dou@@ b@@ et .
+** Top k candidates: **
+I have a dou@@ ble l@@ ad@@ y .
+** Top k candidates: **
+I &apos;ll get you to the station tomorrow .
+** Top k candidates: **
+I &apos;ll keep you at the station tomorrow .
+** Top k candidates: **
+I &apos;ll get you for tomorrow .
+** Top k candidates: **
+he was bor@@ n in the f@@ lo@@ or .
+** Top k candidates: **
+he was bor@@ n on the f@@ lo@@ or .
+** Top k candidates: **
+he was bor@@ n in the su@@ g@@ ar .
+** Top k candidates: **
+a sho@@ w@@ er f@@ ell .
+** Top k candidates: **
+a sho@@ w@@ er has f@@ ell .
+** Top k candidates: **
+a sho@@ w@@ er is f@@ un@@ n@@ y .
+** Top k candidates: **
+let &apos;s play your mind to come .
+** Top k candidates: **
+let &apos;s play your mind to turn .
+** Top k candidates: **
+clo@@ se are going to s@@ pend .
+** Top k candidates: **
+Tom has dec@@ i@@ ded .
+** Top k candidates: **
+Tom has dec@@ i@@ ded to the for@@ t@@ une .
+** Top k candidates: **
+Tom has dec@@ i@@ ded to the k@@ is@@ s .
+** Top k candidates: **
+Tom bu@@ il@@ ed his bo@@ ttle .
+** Top k candidates: **
+Tom bu@@ il@@ ed his bo@@ x .
+** Top k candidates: **
+Tom bu@@ il@@ ed his f@@ ell .
+** Top k candidates: **
+the now is sle@@ ep@@ ing in a day .
+** Top k candidates: **
+the now is sle@@ ep@@ ing a day .
+** Top k candidates: **
+the now is sle@@ ep@@ ing at a day .
+** Top k candidates: **
+I thought you &apos;d be going to be .
+** Top k candidates: **
+I thought you &apos;d be s@@ ay@@ ing .
+** Top k candidates: **
+I thought you &apos;d be s@@ ay@@ ed .
+** Top k candidates: **
+I don &apos;t like to be ei@@ ther too long .
+** Top k candidates: **
+I don &apos;t like be late .
+** Top k candidates: **
+I don &apos;t like be late for all .
+** Top k candidates: **
+who would you want to talk to you ?
+** Top k candidates: **
+who would you like to talk to you ?
+** Top k candidates: **
+who would you like to talk about ?
+** Top k candidates: **
+I &apos;m not a cr@@ azy .
+** Top k candidates: **
+I &apos;m not a nice person .
+** Top k candidates: **
+I &apos;m not a nice woman .
+** Top k candidates: **
+it was not in my in@@ ten@@ tion .
+** Top k candidates: **
+it was not in my in@@ ten@@ ent .
+** Top k candidates: **
+it was not in my in@@ ten@@ tions .
+** Top k candidates: **
+she in@@ tro@@ du@@ ced happy .
+** Top k candidates: **
+she in@@ tro@@ du@@ ced the differ@@ ent .
+** Top k candidates: **
+she in@@ tro@@ du@@ ced the sol@@ ved .
+** Top k candidates: **
+I don &apos;t like your p@@ at@@ ch .
+** Top k candidates: **
+I don &apos;t like your p@@ air .
+** Top k candidates: **
+I don &apos;t like your p@@ at@@ g .
+** Top k candidates: **
+I told him not to come back .
+** Top k candidates: **
+I told him not to come again .
+** Top k candidates: **
+I told him not back again .
+** Top k candidates: **
+I &apos;d like you to meet my parents .
+** Top k candidates: **
+I &apos;d want you to meet my parents .
+** Top k candidates: **
+I &apos;d better you were my parents .
+** Top k candidates: **
+my father was ang@@ ry .
+** Top k candidates: **
+my little friend was late .
+** Top k candidates: **
+my father was ang@@ ry with a d@@ augh@@ ter .
+** Top k candidates: **
+you need to learn you .
+** Top k candidates: **
+you need to learn for you .
+** Top k candidates: **
+you need to learn to go .
+** Top k candidates: **
+I &apos;m happy , because you &apos;re happy here .
+** Top k candidates: **
+I &apos;m happy , I &apos;m here .
+** Top k candidates: **
+I &apos;m happy , because you are here .
+** Top k candidates: **
+do you like R@@ us@@ les ?
+** Top k candidates: **
+do you like R@@ us@@ h ?
+** Top k candidates: **
+do you like R@@ us@@ si@@ ze ?
+** Top k candidates: **
+they don &apos;t know so long .
+** Top k candidates: **
+they don &apos;t want to s@@ pend so long .
+** Top k candidates: **
+they don &apos;t want to s@@ pend all day .
+** Top k candidates: **
+everyone was a good idea .
+** Top k candidates: **
+everyone was a good family .
+** Top k candidates: **
+everyone had a good idea .
+** Top k candidates: **
+what are you going to write ?
+** Top k candidates: **
+what are you doing ?
+** Top k candidates: **
+what are you looking for ?
+** Top k candidates: **
+you should think about your fu@@ ture .
+** Top k candidates: **
+you should think about your opinion .
+** Top k candidates: **
+you should think about your d@@ ance .
+** Top k candidates: **
+there &apos;s no cho@@ ice .
+** Top k candidates: **
+there is no cho@@ ice .
+** Top k candidates: **
+there &apos;s no s@@ ati@@ c@@ y .
+** Top k candidates: **
+I know you &apos;re in love with me !
+** Top k candidates: **
+I know you &apos;re in love with me .
+** Top k candidates: **
+I know you &apos;re reading in love with me !
+** Top k candidates: **
+your pro@@ j@@ ers have a lot .
+** Top k candidates: **
+your pro@@ j@@ ers have a lot of lot .
+** Top k candidates: **
+your pro@@ j@@ ers have big friends .
+** Top k candidates: **
+this bo@@ x is p@@ ac@@ ked .
+** Top k candidates: **
+this bo@@ x has p@@ ast .
+** Top k candidates: **
+this bo@@ x has p@@ ast the k@@ ey .
+** Top k candidates: **
+I need a sho@@ w@@ er .
+** Top k candidates: **
+I need a sho@@ p .
+** Top k candidates: **
+I need a sho@@ p of a lot .
+** Top k candidates: **
+how did you k@@ ill them ?
+** Top k candidates: **
+how did you k@@ ill the k@@ ey@@ s ?
+** Top k candidates: **
+how did you k@@ ill the k@@ ey ?
+** Top k candidates: **
+this doesn &apos;t be easy to help you .
+** Top k candidates: **
+it won &apos;t be easy to help you .
+** Top k candidates: **
+this doesn &apos;t be easy to for@@ get you .
+** Top k candidates: **
+the fish doesn &apos;t work today .
+** Top k candidates: **
+the fish doesn &apos;t be today .
+** Top k candidates: **
+the fish won &apos;t be today .
+** Top k candidates: **
+do you think the sur@@ viv@@ ary ?
+** Top k candidates: **
+do you think the sur@@ prise ?
+** Top k candidates: **
+do you think the plan@@ ance will be ?
+** Top k candidates: **
+I know you want to come home .
+** Top k candidates: **
+I know you want to go home .
+** Top k candidates: **
+I know you want to stay home .
+** Top k candidates: **
+does anyone speak English ?
+** Top k candidates: **
+does anyone speak ?
+** Top k candidates: **
+does anyone have any ?
+** Top k candidates: **
+he is ab@@ sent from his un@@ cle .
+** Top k candidates: **
+he is ab@@ sent from his po@@ w@@ er .
+** Top k candidates: **
+he is ab@@ sent from his w@@ arri@@ or .
+** Top k candidates: **
+I want you to get up with me .
+** Top k candidates: **
+I want you to miss with me .
+** Top k candidates: **
+I want you to get out with me .
+** Top k candidates: **
+what &apos;s the su@@ d today ?
+** Top k candidates: **
+what &apos;s the ru@@ d today ?
+** Top k candidates: **
+what &apos;s the ru@@ d today today ?
+** Top k candidates: **
+Tom didn &apos;t know how to sol@@ ve .
+** Top k candidates: **
+Tom didn &apos;t know how to sleep .
+** Top k candidates: **
+Tom didn &apos;t know how to sol@@ ve it .
+** Top k candidates: **
+Tom put the h@@ air every day .
+** Top k candidates: **
+Tom h@@ us@@ hed up every day .
+** Top k candidates: **
+Tom put the h@@ air all day .
+** Top k candidates: **
+what did he like to d@@ ance ?
+** Top k candidates: **
+what is he like you ?
+** Top k candidates: **
+what did he like to d@@ ea@@ l ?
+** Top k candidates: **
+is there a mo@@ vie of mo@@ vie ?
+** Top k candidates: **
+is he a mo@@ vie of mo@@ vie ?
+** Top k candidates: **
+do it a mo@@ vie of mo@@ vie ?
+** Top k candidates: **
+this b@@ ab@@ y has a lot of l@@ ar .
+** Top k candidates: **
+this b@@ ab@@ y has a lot of fr@@ ont .
+** Top k candidates: **
+this b@@ ab@@ y has a lot of fr@@ u@@ it .
+** Top k candidates: **
+that &apos;s why I sent you .
+** Top k candidates: **
+that &apos;s why I sent you for .
+** Top k candidates: **
+that &apos;s why I sent you to .
+** Top k candidates: **
+you &apos;re won@@ der@@ ful , aren &apos;t you ?
+** Top k candidates: **
+you &apos;re s@@ af@@ e , aren &apos;t you ?
+** Top k candidates: **
+you &apos;re won@@ der@@ ful , isn &apos;t you ?
+** Top k candidates: **
+Tom prom@@ is@@ es a lot more never do that .
+** Top k candidates: **
+Tom prom@@ ise everything to never do that .
+** Top k candidates: **
+Tom prom@@ ise everything to never do that anymore .
+** Top k candidates: **
+we &apos;ll never give the truth .
+** Top k candidates: **
+we &apos;ll never see the truth .
+** Top k candidates: **
+we &apos;ll never see the truth on his d@@ ead .
+** Top k candidates: **
+he is a bit as fast as I will .
+** Top k candidates: **
+he is a bit as fast as I will do .
+** Top k candidates: **
+he is a bit as fast as I will re@@ turn .
+** Top k candidates: **
+Tom really looks a lot of a lot .
+** Top k candidates: **
+Tom really drin@@ king a lot of a lot .
+** Top k candidates: **
+Tom really drin@@ king a lot .
+** Top k candidates: **
+I &apos;m not at the b@@ lo@@ od .
+** Top k candidates: **
+I &apos;m not on the b@@ lo@@ od .
+** Top k candidates: **
+I &apos;m not at the b@@ lo@@ c@@ ry .
+** Top k candidates: **
+the ro@@ ad is the mus@@ eu@@ m .
+** Top k candidates: **
+the ro@@ ad is the mus@@ ic .
+** Top k candidates: **
+the ro@@ ad is the mus@@ ic of the other .
+** Top k candidates: **
+what do you think we &apos;re s@@ af@@ e with me ?
+** Top k candidates: **
+what do you think we &apos;re s@@ ay@@ ing home ?
+** Top k candidates: **
+what do you think we &apos;re was@@ ting of home ?
+** Top k candidates: **
+I &apos;m thin@@ king to go to Tom .
+** Top k candidates: **
+I &apos;m thin@@ king of the m@@ oun@@ age to Tom .
+** Top k candidates: **
+I &apos;m thin@@ king of the m@@ oun@@ tain .
+** Top k candidates: **
+do you remember his phone num@@ ber ?
+** Top k candidates: **
+do you remember her phone num@@ ber ?
+** Top k candidates: **
+do you want her phone num@@ ber ?
+** Top k candidates: **
+how is the time to you ?
+** Top k candidates: **
+how &apos;s the time to you ?
+** Top k candidates: **
+how is the time you &apos;re in char@@ ge ?
+** Top k candidates: **
+I &apos;ll wait in the b@@ each .
+** Top k candidates: **
+I &apos;ll come in the b@@ each .
+** Top k candidates: **
+I &apos;ll pay in the b@@ each .
+** Top k candidates: **
+this po@@ or is al@@ most al@@ most hun@@ gr@@ y .
+** Top k candidates: **
+this po@@ or is al@@ most al@@ most .
+** Top k candidates: **
+this po@@ or is al@@ most very much .
+** Top k candidates: **
+are you tel@@ ling who gave me up ?
+** Top k candidates: **
+are you tel@@ ling who gave me ?
+** Top k candidates: **
+are you tel@@ ling me that you were in@@ ju@@ red ?
+** Top k candidates: **
+we asked me to get the fu@@ ture .
+** Top k candidates: **
+we asked me to get the mo@@ vie .
+** Top k candidates: **
+we asked me to buy the mo@@ vie .
+** Top k candidates: **
+this cou@@ ck@@ y has a very eff@@ ect .
+** Top k candidates: **
+this cou@@ ck@@ y has a very eff@@ ear .
+** Top k candidates: **
+this cou@@ ck@@ y has a very eff@@ ec@@ k .
+** Top k candidates: **
+I have a few ho@@ sp@@ ital .
+** Top k candidates: **
+I &apos;ve got a few stu@@ dent .
+** Top k candidates: **
+I have a few ho@@ sp@@ ital in the b@@ ab@@ y .
+** Top k candidates: **
+I have to find out as I can .
+** Top k candidates: **
+I have to get ready .
+** Top k candidates: **
+I have to find out as it .
+** Top k candidates: **
+she doesn &apos;t have to get up .
+** Top k candidates: **
+she doesn &apos;t want to get up .
+** Top k candidates: **
+she doesn &apos;t have to get up to you .
+** Top k candidates: **
+I think we &apos;re all a little bit .
+** Top k candidates: **
+I think we &apos;re all a bit l@@ augh@@ ter .
+** Top k candidates: **
+I think we &apos;re all a little lo@@ c@@ ity .
+** Top k candidates: **
+you have a dec@@ ision to try .
+** Top k candidates: **
+you have a dec@@ ision to try to be .
+** Top k candidates: **
+you have a dec@@ ision to try to try .
+** Top k candidates: **
+Tom play@@ es tennis after three times by week .
+** Top k candidates: **
+Tom play@@ es tennis after school after three times .
+** Top k candidates: **
+Tom play@@ es tennis after three times in the week .
+** Top k candidates: **
+it &apos;s on what we saw .
+** Top k candidates: **
+it &apos;s on that we saw .
+** Top k candidates: **
+it &apos;s on what we were in@@ vol@@ ved .
+** Top k candidates: **
+do you have any p@@ ale with you ?
+** Top k candidates: **
+do you have any p@@ us@@ h with you ?
+** Top k candidates: **
+do you have any b@@ as@@ te in you ?
+** Top k candidates: **
+I wanted to know why you haven &apos;t done yesterday .
+** Top k candidates: **
+I wanted to know why you &apos;re not finished yesterday .
+** Top k candidates: **
+I wanted to know why you aren &apos;t in yesterday .
+** Top k candidates: **
+I play@@ ed the windo@@ w of my life .
+** Top k candidates: **
+I play@@ ed my life with my life .
+** Top k candidates: **
+I play@@ ed my life with Boston .
+** Top k candidates: **
+mother is wat@@ ching me a sho@@ w@@ er .
+** Top k candidates: **
+mother is wat@@ ching me to do a co@@ ok .
+** Top k candidates: **
+mother is wat@@ ching me to make a co@@ ok .
+** Top k candidates: **
+I loo@@ ked up since but I saw .
+** Top k candidates: **
+I loo@@ ked up since but I saw no .
+** Top k candidates: **
+I loo@@ ked up since but I had no seen .
+** Top k candidates: **
+you must take your dog .
+** Top k candidates: **
+you must have your dog .
+** Top k candidates: **
+you have to get your dog .
+** Top k candidates: **
+Tom told that he had to mar@@ ry the police .
+** Top k candidates: **
+Tom told that he had to the police .
+** Top k candidates: **
+Tom said everything he had to the police .
+** Top k candidates: **
+there &apos;s no com@@ pu@@ ter .
+** Top k candidates: **
+there &apos;s no im@@ pr@@ ess@@ ation .
+** Top k candidates: **
+there &apos;s no im@@ pr@@ ess .
+** Top k candidates: **
+the play@@ ers are stu@@ dents .
+** Top k candidates: **
+the play@@ ers are stu@@ dents for the f@@ lo@@ or .
+** Top k candidates: **
+the play@@ ers are stu@@ dents for the f@@ lo@@ es .
+** Top k candidates: **
+is this s@@ now ?
+** Top k candidates: **
+is this s@@ car@@ ing ?
+** Top k candidates: **
+is this s@@ car@@ t ?
+** Top k candidates: **
+you &apos;d better get everything .
+** Top k candidates: **
+you &apos;d better get everything of w@@ ine .
+** Top k candidates: **
+you &apos;d better get everything of w@@ o@@ es .
+** Top k candidates: **
+why would you for@@ get if nothing about you ?
+** Top k candidates: **
+why do you want if you want a little sure ?
+** Top k candidates: **
+why do you want if you want a little more ?
+** Top k candidates: **
+please give me the ad@@ dress .
+** Top k candidates: **
+please sig@@ n me the ad@@ dress .
+** Top k candidates: **
+please give me the ad@@ dress to get up .
+** Top k candidates: **
+she liv@@ ed a life .
+** Top k candidates: **
+she liv@@ ed a des@@ er@@ al letter .
+** Top k candidates: **
+she liv@@ ed a des@@ er@@ ti@@ c .
+** Top k candidates: **
+I want you to get out .
+** Top k candidates: **
+I want you to get up .
+** Top k candidates: **
+I want you to get out of the po@@ or .
+** Top k candidates: **
+what did you do with your cam@@ era ?
+** Top k candidates: **
+what did you done with your cam@@ era ?
+** Top k candidates: **
+what did you find with your cam@@ era ?
+** Top k candidates: **
+I &apos;m gl@@ ad if to find the book .
+** Top k candidates: **
+I &apos;m gl@@ ad if to keep the book .
+** Top k candidates: **
+I &apos;m gl@@ ad to keep the book .
+** Top k candidates: **
+a dog f@@ ell to the party .
+** Top k candidates: **
+a dog has a dog to the party .
+** Top k candidates: **
+a dog f@@ ell to the b@@ a@@ g .
+** Top k candidates: **
+he is more than all the oth@@ ers .
+** Top k candidates: **
+he is more than all the teacher .
+** Top k candidates: **
+he is more than all the tre@@ ts all the rain .
+** Top k candidates: **
+I &apos;d like to ask up the door .
+** Top k candidates: **
+I &apos;d like to s@@ it the door .
+** Top k candidates: **
+I &apos;d like to s@@ ell the door .
+** Top k candidates: **
+a teacher is pre@@ par@@ ed .
+** Top k candidates: **
+a teacher is pre@@ tty teacher .
+** Top k candidates: **
+a teacher is pre@@ par@@ ed to be .
+** Top k candidates: **
+could you ex@@ pl@@ ain it more than ?
+** Top k candidates: **
+could you ex@@ pl@@ ain it more than that ?
+** Top k candidates: **
+could you ex@@ pl@@ ain him more than ?
+** Top k candidates: **
+it &apos;s not a cu@@ te .
+** Top k candidates: **
+it &apos;s not a cu@@ p of red .
+** Top k candidates: **
+it &apos;s not a cu@@ p of us .
+** Top k candidates: **
+it &apos;s s@@ mar@@ t as mist@@ ake .
+** Top k candidates: **
+it &apos;s s@@ mar@@ t .
+** Top k candidates: **
+it &apos;s s@@ mar@@ t as their eyes .
+** Top k candidates: **
+she has been in a nice tri@@ p .
+** Top k candidates: **
+she has been in a b@@ lo@@ od .
+** Top k candidates: **
+she has been in a nice tri@@ p of a long time .
+** Top k candidates: **
+she must have a room with his sister .
+** Top k candidates: **
+she must have a room with her sister .
+** Top k candidates: **
+she must have a new room with her sister .
+** Top k candidates: **
+he &apos;s a c@@ at@@ et with this k@@ ey !
+** Top k candidates: **
+he &apos;s a c@@ at@@ et with this b@@ low .
+** Top k candidates: **
+he &apos;s a c@@ at@@ et with this b@@ low !
+** Top k candidates: **
+how do you know what is the light ?
+** Top k candidates: **
+how do you know what is the f@@ lo@@ or ?
+** Top k candidates: **
+how do you know what is the sub@@ j@@ ect ?
+** Top k candidates: **
+I went to the sto@@ re .
+** Top k candidates: **
+I went in trou@@ ble .
+** Top k candidates: **
+I went to the sto@@ re in the sto@@ re .
+** Top k candidates: **
+Tom clo@@ sed the door of his room .
+** Top k candidates: **
+Tom clo@@ sed the door in his room .
+** Top k candidates: **
+Tom clo@@ sed the door out of his room .
+** Top k candidates: **
+as I thought I thought , she is a di@@ e .
+** Top k candidates: **
+as I thought I thought , she is a go@@ d .
+** Top k candidates: **
+as I thought I thought , she is a s@@ af@@ e .
+** Top k candidates: **
+N@@ an@@ ak@@ o is a cou@@ ple .
+** Top k candidates: **
+N@@ an@@ k is a cou@@ ple .
+** Top k candidates: **
+N@@ an@@ ak@@ o is a cou@@ ple of gu@@ ys .
+** Top k candidates: **
+you were afraid , isn &apos;t you ?
+** Top k candidates: **
+you were afraid , didn &apos;t you ?
+** Top k candidates: **
+you were afraid , aren &apos;t you ?
+** Top k candidates: **
+I &apos;m lu@@ ck@@ y to have you as a friend .
+** Top k candidates: **
+I &apos;m lu@@ ck@@ y to have you as well .
+** Top k candidates: **
+I &apos;m lu@@ ck@@ y to have you like .
+** Top k candidates: **
+I &apos;d like my h@@ at .
+** Top k candidates: **
+I &apos;d like my h@@ at in the sto@@ re .
+** Top k candidates: **
+I &apos;ll get my h@@ at in the sto@@ re .
+** Top k candidates: **
+the mother is wat@@ ching on the table .
+** Top k candidates: **
+the mother is wat@@ ching the table on the table .
+** Top k candidates: **
+the mother is working on the table .
+** Top k candidates: **
+I know what &apos;s a di@@ e .
+** Top k candidates: **
+I know what &apos;s a s@@ mar@@ t .
+** Top k candidates: **
+I know what &apos;s a s@@ che@@ ess .
+** Top k candidates: **
+it &apos;s a thing I must do alone .
+** Top k candidates: **
+it &apos;s a thing I must do .
+** Top k candidates: **
+it &apos;s a thing I have to do alone .
+** Top k candidates: **
+I can &apos;t believe that he was em@@ bar@@ r@@ ass@@ ed .
+** Top k candidates: **
+I can &apos;t believe that he was in@@ no@@ cent .
+** Top k candidates: **
+I can &apos;t believe that he was in@@ war@@ ned .
+** Top k candidates: **
+what &apos;s that that , how old is it ?
+** Top k candidates: **
+what &apos;s that that , what is it ?
+** Top k candidates: **
+what &apos;s that that , how old is that ?
+** Top k candidates: **
+a lot of f@@ ine , that has been a great day .
+** Top k candidates: **
+a lot of f@@ ine , it was a great day .
+** Top k candidates: **
+a lot of f@@ ine , that has been a ru@@ de .
+** Top k candidates: **
+I can &apos;t leave you for it in all alone .
+** Top k candidates: **
+I can &apos;t let you go there in all alone .
+** Top k candidates: **
+I can &apos;t let you leave in all alone .
+** Top k candidates: **
+the friends is Tom kno@@ wn to M@@ r M@@ on@@ a .
+** Top k candidates: **
+the friends is Tom kno@@ wn to M@@ r M@@ on@@ man .
+** Top k candidates: **
+the friends is Tom kno@@ wn to M@@ il .
+** Top k candidates: **
+do you have any kind of li@@ es ?
+** Top k candidates: **
+do you have any kind of g@@ ho@@ sts ?
+** Top k candidates: **
+do you have any kind of b@@ lo@@ od bo@@ ys ?
+** Top k candidates: **
+I think the ro@@ ad is in@@ ju@@ red .
+** Top k candidates: **
+I think the s@@ ati@@ s@@ in@@ es in@@ stru@@ c@@ ated .
+** Top k candidates: **
+I think the s@@ ati@@ s@@ in@@ es in@@ stru@@ c@@ ks .
+** Top k candidates: **
+he is exac@@ tly that she &apos;s going to school French .
+** Top k candidates: **
+he &apos;s exac@@ tly that she &apos;s going to school French .
+** Top k candidates: **
+he is exac@@ tly that she &apos;s going to school in school .
+** Top k candidates: **
+P@@ ar@@ k is late for the g@@ one .
+** Top k candidates: **
+P@@ ar@@ k is late for the b@@ lo@@ od .
+** Top k candidates: **
+P@@ ar@@ k is late for the b@@ lo@@ or .
+** Top k candidates: **
+wom@@ en like the b@@ ab@@ y br@@ ought .
+** Top k candidates: **
+the wom@@ en like the b@@ ab@@ y br@@ ought .
+** Top k candidates: **
+the wom@@ en like the b@@ ab@@ y br@@ ought to cut .
+** Top k candidates: **
+the first man who lives the g@@ ame .
+** Top k candidates: **
+the first man who lives the b@@ lo@@ od .
+** Top k candidates: **
+the concer@@ t who lives the b@@ lo@@ od .
+** Top k candidates: **
+how much is your house in your house ?
+** Top k candidates: **
+how much did your house in your house ?
+** Top k candidates: **
+how much is your house to work in your house ?
+** Top k candidates: **
+are you looking for the fu@@ ture ?
+** Top k candidates: **
+are you looking for anything to c@@ ake ?
+** Top k candidates: **
+are you looking for anything to s@@ ave ?
+** Top k candidates: **
+I like it . it &apos;s a s@@ pe@@ e@@ f .
+** Top k candidates: **
+I like him . it &apos;s a s@@ pe@@ e@@ f .
+** Top k candidates: **
+I like it . it &apos;s a s@@ pe@@ o@@ ds .
+** Top k candidates: **
+the heal@@ th is in@@ side to the b@@ ab@@ y .
+** Top k candidates: **
+the heal@@ th is in@@ side to the b@@ ill .
+** Top k candidates: **
+the heal@@ th is in@@ f@@ ec@@ tive to the b@@ ab@@ y .
+** Top k candidates: **
+my father don &apos;t eat any fr@@ u@@ it .
+** Top k candidates: **
+my father don &apos;t eat any fr@@ ont of fr@@ u@@ it .
+** Top k candidates: **
+my father doesn &apos;t eat as any fr@@ u@@ it .
+** Top k candidates: **
+I &apos;m gl@@ ad to dec@@ ide his pres@@ ent .
+** Top k candidates: **
+I &apos;m gl@@ ad to dec@@ i@@ ze his teacher .
+** Top k candidates: **
+I &apos;m gl@@ ad to dec@@ i@@ ze his ev@@ en@@ ation .
+** Top k candidates: **
+I app@@ re@@ ci@@ ate you to see me .
+** Top k candidates: **
+I app@@ re@@ ci@@ ate you once to see me .
+** Top k candidates: **
+I app@@ re@@ ci@@ ate you some@@ times you &apos;re to see me .
+** Top k candidates: **
+I bought this car if I had a gir@@ l@@ friend .
+** Top k candidates: **
+I bought that car if I had a gir@@ l@@ friend .
+** Top k candidates: **
+I bought this car if I had a gir@@ l@@ friend was b@@ ab@@ y .
+** Top k candidates: **
+do you like to miss the train .
+** Top k candidates: **
+do you like to miss you .
+** Top k candidates: **
+do you have to miss you .
+** Top k candidates: **
+I lear@@ ned French before to go .
+** Top k candidates: **
+I lear@@ ned French before to go to s@@ wi@@ m .
+** Top k candidates: **
+I lear@@ ned French before to go to the h@@ ell .
+** Top k candidates: **
+I &apos;ve already done the same thing to be done .
+** Top k candidates: **
+I &apos;ve already done the same what who nee@@ ds to be done .
+** Top k candidates: **
+I &apos;ve already done the same thing what happened .
+** Top k candidates: **
+we were play@@ ing on a good job in the par@@ k .
+** Top k candidates: **
+we were play@@ ing on a good co@@ ol in the par@@ k .
+** Top k candidates: **
+we were play@@ ing on a good co@@ ol in the b@@ ank .
+** Top k candidates: **
+our house and we &apos;re wat@@ ching us .
+** Top k candidates: **
+our house and th@@ rough we &apos;re waiting for you .
+** Top k candidates: **
+our house and th@@ rough we &apos;re waiting for .
+** Top k candidates: **
+you &apos;re going to talk to you to speak in publi@@ c .
+** Top k candidates: **
+you &apos;re going to talk to you to talk about .
+** Top k candidates: **
+you &apos;re going to talk to you to speak in publi@@ ty .
+** Top k candidates: **
+she de@@ p@@ ends up his best .
+** Top k candidates: **
+she de@@ p@@ ends up his ac@@ tu@@ al .
+** Top k candidates: **
+she de@@ p@@ ends up his own .
+** Top k candidates: **
+there is no idea for you to go to Boston .
+** Top k candidates: **
+there is no idea to go to Boston .
+** Top k candidates: **
+there &apos;s no really to go to Boston .
+** Top k candidates: **
+the dic@@ ti@@ ci@@ l of the eyes is wat@@ ching .
+** Top k candidates: **
+the dic@@ ti@@ ci@@ l of the eyes is wat@@ ching of the world .
+** Top k candidates: **
+the dic@@ ti@@ ci@@ l of the eyes is wat@@ ching of the best .
+** Top k candidates: **
+all of the gre@@ ater , the c@@ ase of doll@@ ars doll@@ ars .
+** Top k candidates: **
+all of the gre@@ ater , the c@@ ase of doll@@ ars .
+** Top k candidates: **
+all of the gre@@ ater , the c@@ ase of the dec@@ i@@ ous doll@@ ars .
+** Top k candidates: **
+did you read a little co@@ ok ?
+** Top k candidates: **
+have you read a little lu@@ ck@@ y ?
+** Top k candidates: **
+have you read a little lu@@ ck@@ et ?
+** Top k candidates: **
+she mis@@ sed me to get up .
+** Top k candidates: **
+she mis@@ sed me l@@ ac@@ ked .
+** Top k candidates: **
+she mis@@ sed me to s@@ wi@@ m .
+** Top k candidates: **
+how much time do you plan to pay Boston ?
+** Top k candidates: **
+how many times do you plan to pay Boston ?
+** Top k candidates: **
+how much time do you plan to learn Boston ?
+** Top k candidates: **
+he doesn &apos;t want more more ex@@ pen@@ si@@ ve .
+** Top k candidates: **
+he doesn &apos;t want more more sp@@ ace .
+** Top k candidates: **
+he doesn &apos;t want more more ex@@ per@@ i@@ ence .
+** Top k candidates: **
+L@@ ay@@ la , he went to bed .
+** Top k candidates: **
+L@@ ay@@ la , he went in bed .
+** Top k candidates: **
+L@@ ay@@ la , he went on the bed .
+** Top k candidates: **
+I like English , but I can &apos;t speak well .
+** Top k candidates: **
+I like English , but I can &apos;t speak it .
+** Top k candidates: **
+I like English , but I can &apos;t talk well .
+** Top k candidates: **
+I &apos;ve never seen my cat of this way .
+** Top k candidates: **
+I &apos;ve never seen my cat l@@ augh@@ ing .
+** Top k candidates: **
+I &apos;ve never seen my cat of this job .
+** Top k candidates: **
+I &apos;m sorry , I didn &apos;t hear you .
+** Top k candidates: **
+I &apos;m sorry , I don &apos;t hear you .
+** Top k candidates: **
+I &apos;m sorry , I couldn &apos;t hear you .
+** Top k candidates: **
+I saw you in T@@ V T@@ V .
+** Top k candidates: **
+I saw you to the T@@ V .
+** Top k candidates: **
+I saw you at the T@@ V .
+** Top k candidates: **
+the bo@@ ttle of cour@@ se does .
+** Top k candidates: **
+the bo@@ ttle of cour@@ se is as@@ king .
+** Top k candidates: **
+the bo@@ ttle of cour@@ se is thir@@ d .
+** Top k candidates: **
+it &apos;s a differ@@ ence bet@@ we@@ ight , isn &apos;t it ?
+** Top k candidates: **
+it &apos;s a differ@@ ence bet@@ we@@ en that , isn &apos;t it ?
+** Top k candidates: **
+it &apos;s a differ@@ ence bet@@ we@@ en that ?
+** Top k candidates: **
+the ro@@ ad were im@@ pro@@ ved .
+** Top k candidates: **
+the ro@@ ad were im@@ pro@@ ve .
+** Top k candidates: **
+the ro@@ ad were im@@ pl@@ ent@@ y .
+** Top k candidates: **
+the little girl doesn &apos;t know anything to be .
+** Top k candidates: **
+the little girl doesn &apos;t know anything to be car@@ eful .
+** Top k candidates: **
+the little girl doesn &apos;t know anything as a s@@ mar@@ t .
+** Top k candidates: **
+I can go to school in ten minutes .
+** Top k candidates: **
+I can go to school at the ten minutes .
+** Top k candidates: **
+I can go to school in the ten minutes .
+** Top k candidates: **
+what do you say to jo@@ at me for dinner ?
+** Top k candidates: **
+what do you say to jo@@ at me to dinner ?
+** Top k candidates: **
+what do you say of me to get to me for dinner ?
+** Top k candidates: **
+he won &apos;t be a dec@@ ision to do with Tom .
+** Top k candidates: **
+he won &apos;t be a dec@@ ision to talk with Tom .
+** Top k candidates: **
+he won &apos;t be a dec@@ ision to make Tom .
+** Top k candidates: **
+what did she buy this sto@@ re ?
+** Top k candidates: **
+what does she bought this sto@@ re ?
+** Top k candidates: **
+what did she bought this sto@@ re ?
+** Top k candidates: **
+we &apos;ll pay all the world in the world .
+** Top k candidates: **
+we &apos;re looking for the world in the world .
+** Top k candidates: **
+we &apos;ll pay the world in the world .
+** Top k candidates: **
+do I can use this pap@@ er ?
+** Top k candidates: **
+do I can use this pap@@ er .
+** Top k candidates: **
+do I can use this pap@@ er of this pap@@ er ?
+** Top k candidates: **
+I don &apos;t know where to go , the ne@@ ws .
+** Top k candidates: **
+I don &apos;t know where to go , sh@@ ut .
+** Top k candidates: **
+I don &apos;t know where to go , sh@@ ut you .
+** Top k candidates: **
+I was ab@@ ro@@ te in the T@@ V .
+** Top k candidates: **
+I was going to get up your h@@ air .
+** Top k candidates: **
+I was going to get up your h@@ air cut .
+** Top k candidates: **
+they can &apos;t give me what I want .
+** Top k candidates: **
+they cannot give me what I want .
+** Top k candidates: **
+they can &apos;t give me what I want to know .
+** Top k candidates: **
+I want to ask you for me .
+** Top k candidates: **
+I want to re@@ turn to you for me .
+** Top k candidates: **
+I want to re@@ turn to you .
+** Top k candidates: **
+the mother is looking for a b@@ ank .
+** Top k candidates: **
+the mother &apos;s looking for a b@@ ank .
+** Top k candidates: **
+the mother is looking for a b@@ ab@@ y .
+** Top k candidates: **
+I have to c@@ ake you for your succ@@ ess .
+** Top k candidates: **
+I have to get up to your succ@@ ess .
+** Top k candidates: **
+I have to c@@ ake you for your mind .
+** Top k candidates: **
+you don &apos;t think you don &apos;t like that .
+** Top k candidates: **
+you don &apos;t think you don &apos;t like this .
+** Top k candidates: **
+you don &apos;t know what you &apos;re not like that .
+** Top k candidates: **
+clo@@ se the c@@ ase in 2@@ 0@@ 00 .
+** Top k candidates: **
+clo@@ se the c@@ ase in 2@@ 0@@ times .
+** Top k candidates: **
+clo@@ se the c@@ ase in 2@@ 0@@ years .
+** Top k candidates: **
+this word is a name and a good time to the time .
+** Top k candidates: **
+this word is a name and a good time .
+** Top k candidates: **
+this word is a name and a good time for the time .
+** Top k candidates: **
+I think you should have a great way here .
+** Top k candidates: **
+I think you should have a p@@ at@@ en here .
+** Top k candidates: **
+I think you should have a great way .
+** Top k candidates: **
+Tom doesn &apos;t want the same thing to re@@ turn .
+** Top k candidates: **
+Tom doesn &apos;t want the same thing .
+** Top k candidates: **
+Tom doesn &apos;t want to see the same time .
+** Top k candidates: **
+I like K@@ y@@ st@@ el@@ ed .
+** Top k candidates: **
+I like K@@ y@@ g@@ er@@ ed .
+** Top k candidates: **
+I like K@@ y@@ st@@ el@@ ed in a lot .
+** Top k candidates: **
+Tom said that he didn &apos;t saw him .
+** Top k candidates: **
+Tom told that he didn &apos;t saw him .
+** Top k candidates: **
+Tom said that he didn &apos;t saw her .
+** Top k candidates: **
+the ex@@ per@@ i@@ tion are under the ad@@ dress .
+** Top k candidates: **
+the ex@@ per@@ i@@ tion are under a ad@@ dress .
+** Top k candidates: **
+the ex@@ per@@ i@@ tion are under a great water .
+** Top k candidates: **
+I can &apos;t help me for you .
+** Top k candidates: **
+I can &apos;t help me to go to you .
+** Top k candidates: **
+I can &apos;t help me to go .
+** Top k candidates: **
+he dec@@ i@@ ded to dec@@ i@@ ded his wife .
+** Top k candidates: **
+he dec@@ i@@ ded to dec@@ i@@ ded his pro@@ j@@ ect .
+** Top k candidates: **
+he dec@@ i@@ ded to dec@@ i@@ ded his pro@@ j@@ ect was in this so@@ lution .
+** Top k candidates: **
+all you must do , this is to learn this senten@@ ce .
+** Top k candidates: **
+all you must do , this is to learn this senten@@ ces .
+** Top k candidates: **
+all you must do , this is to learn this senten@@ ce is .
+** Top k candidates: **
+I think you don &apos;t have to c@@ le@@ an up .
+** Top k candidates: **
+I think you don &apos;t have to c@@ at@@ ch the se@@ a .
+** Top k candidates: **
+I think you don &apos;t have to c@@ at@@ ch the se@@ y@@ e@@ f .
+** Top k candidates: **
+the boy tried to dis@@ ap@@ poin@@ ted him .
+** Top k candidates: **
+the boy tried to dis@@ ap@@ poin@@ ted the k@@ ey .
+** Top k candidates: **
+the boy tried to s@@ wi@@ m out .
+** Top k candidates: **
+I &apos;ve been trying to mar@@ ry the comp@@ any .
+** Top k candidates: **
+I &apos;ve been trying to mar@@ ry the det@@ ai@@ ls .
+** Top k candidates: **
+I &apos;ve been trying to mar@@ ry the det@@ ai@@ rs .
+** Top k candidates: **
+in this moment , there &apos;s no place more than here .
+** Top k candidates: **
+in this moment , there is no idea more than here .
+** Top k candidates: **
+in this moment , there is no idea anymore .
+** Top k candidates: **
+someone sp@@ ends to s@@ wi@@ m in his mother .
+** Top k candidates: **
+someone sp@@ ends to s@@ wi@@ m in her mother .
+** Top k candidates: **
+someone sp@@ ends to s@@ wi@@ m to his mother .
+** Top k candidates: **
+is it possible to be a mag@@ az@@ ine g@@ ame ?
+** Top k candidates: **
+is it possible to be a mag@@ az@@ ine g@@ ame yet ?
+** Top k candidates: **
+is it possible to be a mag@@ az@@ ine f@@ as@@ z@@ z@@ z@@ z@@ z@@ z@@ an ?
+** Top k candidates: **
+&quot; what did you do ?
+** Top k candidates: **
+&quot; what did you do ? &quot; &quot; I have a year .
+** Top k candidates: **
+&quot; what did you do ? &quot; &quot; I have a year . &quot;
+** Top k candidates: **
+he is in@@ stru@@ c@@ able on his work .
+** Top k candidates: **
+he is in@@ stru@@ c@@ able on his job .
+** Top k candidates: **
+he is in@@ stru@@ c@@ tive on his work in his tri@@ p .
+** Top k candidates: **
+don &apos;t need to buy this senten@@ ce .
+** Top k candidates: **
+don &apos;t need to trans@@ te this senten@@ ce .
+** Top k candidates: **
+don &apos;t need to trans@@ late this senten@@ ce .
+** Top k candidates: **
+I can tell you a little money , if you need .
+** Top k candidates: **
+I can ra@@ ther you a little money , if you need .
+** Top k candidates: **
+I can tell you a little money , if you need to .
+** Top k candidates: **
+I was ta@@ ken what he was in French .
+** Top k candidates: **
+I was in@@ side that he was in French .
+** Top k candidates: **
+I was in@@ ju@@ red that he was in French .
+** Top k candidates: **
+m@@ ea@@ l on the fu@@ ture on the fu@@ ture .
+** Top k candidates: **
+m@@ ea@@ l on the fu@@ ture of the fu@@ ture .
+** Top k candidates: **
+m@@ ea@@ l on the fu@@ ture of the fu@@ ture of the fu@@ ture .
+** Top k candidates: **
+she o@@ pened the fu@@ ture of the pres@@ ent .
+** Top k candidates: **
+she o@@ pened the fu@@ ture of the pres@@ i@@ al .
+** Top k candidates: **
+she o@@ pened the fu@@ ture of the pres@@ ent of the pres@@ ent .
+** Top k candidates: **
+the first s@@ mar@@ t in B@@ u@@ et@@ y ser@@ i@@ ous .
+** Top k candidates: **
+the first s@@ mar@@ t in B@@ u@@ et@@ y ser@@ ies .
+** Top k candidates: **
+the first s@@ mar@@ t in B@@ u@@ et@@ y ser@@ i@@ al .
+** Top k candidates: **
+&quot; is he a di@@ e ?
+** Top k candidates: **
+&quot; is it a year ?
+** Top k candidates: **
+&quot; is it a year ? &quot; &quot; &quot; he is in &quot; .
+** Top k candidates: **
+A@@ mer@@ ic@@ y is back on T@@ V , and s@@ mar@@ t .
+** Top k candidates: **
+A@@ mer@@ ic@@ y is back on T@@ V , and s@@ wi@@ m .
+** Top k candidates: **
+A@@ mer@@ ic@@ y is back on T@@ V , and s@@ wi@@ m and s@@ mar@@ t .
+** Top k candidates: **
+get up of you things you don &apos;t like .
+** Top k candidates: **
+get up of you things you don &apos;t have to k@@ ill .
+** Top k candidates: **
+get up of you things you don &apos;t have to w@@ er .
+** Top k candidates: **
+J@@ an@@ ese was b@@ ab@@ y on a day .
+** Top k candidates: **
+J@@ an@@ ese was b@@ ab@@ y in a day .
+** Top k candidates: **
+J@@ an@@ ese was b@@ ab@@ y on a day day .
+** Top k candidates: **
+this ty@@ pe of question like to be in@@ vol@@ ved .
+** Top k candidates: **
+this ty@@ pe of question like to be in@@ vol@@ ed .
+** Top k candidates: **
+this ty@@ pe of question has been pre@@ tty to be in@@ vol@@ ved .
+** Top k candidates: **
+he is the new way of the fu@@ ture of the door .
+** Top k candidates: **
+he is the new way of the fu@@ ture of the f@@ lo@@ or .
+** Top k candidates: **
+he is the new way of the fu@@ ture of the U@@ l@@ al .
+** Top k candidates: **
+I ad@@ mit to go to my grand@@ mother .
+** Top k candidates: **
+I ad@@ mit to go out my grand@@ mother .
+** Top k candidates: **
+I ad@@ mit to the fu@@ ture of my mother .
+** Top k candidates: **
+the nei@@ gh@@ st@@ ation is kno@@ wn by a windo@@ w .
+** Top k candidates: **
+the nei@@ gh@@ st@@ ation is kno@@ wn to a windo@@ w .
+** Top k candidates: **
+the nei@@ gh@@ st@@ ation is kno@@ wn by a windo@@ ws .
+** Top k candidates: **
+do you want to k@@ ill , new you ?
+** Top k candidates: **
+do you want to k@@ ill , new you are ?
+** Top k candidates: **
+do you want to k@@ ill up , or you are ?
+** Top k candidates: **
+she &apos;s afraid of the f@@ lo@@ or with a co@@ ok .
+** Top k candidates: **
+she &apos;s afraid of the f@@ lo@@ or with a co@@ at .
+** Top k candidates: **
+she &apos;s afraid of the f@@ lo@@ or with a b@@ lo@@ or .
+** Top k candidates: **
+I was too f@@ as@@ ted for the eyes in the eyes .
+** Top k candidates: **
+I was too f@@ as@@ te for the eyes in the eyes .
+** Top k candidates: **
+I was too f@@ as@@ ted for the eyes to the eyes .
+** Top k candidates: **
+L@@ ay@@ la L@@ and@@ ed his name for the dec@@ ision .
+** Top k candidates: **
+L@@ ay@@ la L@@ and@@ ed his name for the dec@@ i@@ ence .
+** Top k candidates: **
+L@@ ay@@ la L@@ and@@ ed his name for the dec@@ i@@ der .
+** Top k candidates: **
+O@@ h , I don &apos;t have said to do that .
+** Top k candidates: **
+O@@ h , I didn &apos;t have enough if I &apos;m going to do .
+** Top k candidates: **
+O@@ h , I don &apos;t have enough if I &apos;m doing to do .
+** Top k candidates: **
+my grand@@ father has been hun@@ gr@@ y in my hear@@ t .
+** Top k candidates: **
+my grand@@ father has been hun@@ gr@@ y to my hear@@ t in my hear@@ t .
+** Top k candidates: **
+my grand@@ father has been good in my hear@@ t in my hear@@ t .
+** Top k candidates: **
+this cl@@ ass is lear@@ ning to k@@ is@@ s his story .
+** Top k candidates: **
+this cl@@ ass is lear@@ ning to k@@ is@@ s his family .
+** Top k candidates: **
+this cl@@ ass is lear@@ ning to k@@ is@@ s their 2@@ 0@@ 00 .
+** Top k candidates: **
+there are a lot of stu@@ dents in the girls .
+** Top k candidates: **
+there is a lot of stu@@ dents in the girls .
+** Top k candidates: **
+there are a lot of stu@@ dent in the girls .
+** Top k candidates: **
+&quot; what did you do ?
+** Top k candidates: **
+&quot; what did you do ? &quot; &quot; how of the people .
+** Top k candidates: **
+&quot; what did you do ? &quot; &quot; how of the people . &quot;
+** Top k candidates: **
+it &apos;s a m@@ ea@@ l , I have to go out .
+** Top k candidates: **
+it &apos;s a m@@ ea@@ l , I have to get out of the answ@@ er .
+** Top k candidates: **
+it &apos;s a m@@ ea@@ l , I have to get out of a cri@@ min@@ er .
+** Top k candidates: **
+Tom doesn &apos;t have enough money to buy everything .
+** Top k candidates: **
+Tom doesn &apos;t have enough money to buy that .
+** Top k candidates: **
+Tom doesn &apos;t have enough money to buy this .
+** Top k candidates: **
+do you have any kind of girls ?
+** Top k candidates: **
+do you have any kind of con@@ stru@@ c@@ tion ?
+** Top k candidates: **
+do you have any dou@@ c@@ ts of girls ?
+** Top k candidates: **
+do your car k@@ is@@ s a bo@@ ttle ?
+** Top k candidates: **
+do your car k@@ is@@ s a su@@ d of the tri@@ p ?
+** Top k candidates: **
+do your car k@@ is@@ s a bo@@ ttle of bu@@ il@@ ding ?
+** Top k candidates: **
+his house is she be@@ er of the station ?
+** Top k candidates: **
+his house is down she &apos;s done on the station ?
+** Top k candidates: **
+his house is down she &apos;s done of the station ?
+** Top k candidates: **
+how many times is there in your cl@@ ass ?
+** Top k candidates: **
+how many times is in your cl@@ ass in your cl@@ ass ?
+** Top k candidates: **
+how many times is in your cl@@ ass ?
+** Top k candidates: **
+his ne@@ ws are f@@ low@@ ing with to@@ ys .
+** Top k candidates: **
+his ne@@ ws are f@@ low@@ ing with the f@@ low@@ ers .
+** Top k candidates: **
+his ne@@ ws are f@@ low@@ ing with the f@@ low@@ es .
+** Top k candidates: **
+you can &apos;t keep a teacher with you .
+** Top k candidates: **
+you can &apos;t keep a teacher to you this .
+** Top k candidates: **
+you can &apos;t keep any ex@@ per@@ i@@ ence .
+** Top k candidates: **
+I had to re@@ ci@@ ate my car in a place .
+** Top k candidates: **
+I should have re@@ main@@ ed my car .
+** Top k candidates: **
+I had to re@@ ci@@ ate my car in a se@@ d@@ ge .
+** Top k candidates: **
+I need to know your answ@@ er for you .
+** Top k candidates: **
+I need to know your answ@@ er for home .
+** Top k candidates: **
+I need to know your answ@@ er to vis@@ it .
+** Top k candidates: **
+please give yourself a new time by day .
+** Top k candidates: **
+please give me a new time by day .
+** Top k candidates: **
+please give yourself a great time .
+** Top k candidates: **
+he doesn &apos;t like wait for the last time to do something .
+** Top k candidates: **
+he doesn &apos;t like wait for work for something .
+** Top k candidates: **
+he doesn &apos;t like to wait for the last time for something .
+** Top k candidates: **
+I can &apos;t prom@@ ise me , but I can do with my best .
+** Top k candidates: **
+I can &apos;t prom@@ ise you but I can do with my best .
+** Top k candidates: **
+I can &apos;t prom@@ ise you but I can do my best .
+** Top k candidates: **
+it must be the morning , in the morning .
+** Top k candidates: **
+it must be the morning , but it &apos;s s@@ mar@@ t .
+** Top k candidates: **
+it must be the morning , but it &apos;s s@@ qu@@ ic@@ ks .
+** Top k candidates: **
+he doesn &apos;t like wait for the last time to do something .
+** Top k candidates: **
+he doesn &apos;t like wait for work for something .
+** Top k candidates: **
+he doesn &apos;t like to wait for the last time for something .
+** Top k candidates: **
+don &apos;t for@@ gu@@ ess you .
+** Top k candidates: **
+don &apos;t lie to you . it &apos;s not s@@ low@@ er .
+** Top k candidates: **
+don &apos;t lie to you . it &apos;s not s@@ low@@ ing .
+** Top k candidates: **
+I re@@ re@@ ci@@ ate you as a s@@ af@@ e .
+** Top k candidates: **
+I re@@ re@@ ci@@ ate you as a k@@ ey@@ s .
+** Top k candidates: **
+I re@@ re@@ ci@@ ate you like me like a new car .
+** Top k candidates: **
+seen of the world , this de@@ ath is very good .
+** Top k candidates: **
+seen of the world , this de@@ ath is very beautiful .
+** Top k candidates: **
+seen of the world , this mon@@ th is very good .
+** Top k candidates: **
+I lear@@ ned to play the ro@@ ad .
+** Top k candidates: **
+I lear@@ ned to play the ro@@ ad in ten years .
+** Top k candidates: **
+I lear@@ ned to play the ro@@ ad in ten .
+** Top k candidates: **
+I have no idea what we have to do .
+** Top k candidates: **
+I have no idea what we do to do .
+** Top k candidates: **
+I had no idea what we do to do .
+** Top k candidates: **
+I was working hard but but he had to learn .
+** Top k candidates: **
+I was working hard but but he had a lot of me@@ en .
+** Top k candidates: **
+I was working hard but but he had a lot of re@@ ci@@ se .
+** Top k candidates: **
+you should get up at the fi@@ re every day .
+** Top k candidates: **
+you should get up at the fi@@ re every morning .
+** Top k candidates: **
+you should get up at the fi@@ re of all day .
+** Top k candidates: **
+you can &apos;t k@@ ill you in your mind .
+** Top k candidates: **
+you can &apos;t k@@ ill you in your d@@ augh@@ ter .
+** Top k candidates: **
+you can &apos;t k@@ ill you in your own .
+** Top k candidates: **
+he arriv@@ ed to do that us probl@@ ems .
+** Top k candidates: **
+it &apos;s time to do that we was trou@@ ble .
+** Top k candidates: **
+it &apos;s time to do that we were wrong .
+** Top k candidates: **
+this mo@@ vie is so differ@@ ent than that he is bro@@ ken .
+** Top k candidates: **
+this mo@@ vie is so differ@@ ent than that he is rich .
+** Top k candidates: **
+this mo@@ vie is so differ@@ ent than that it is bro@@ ken .
+** Top k candidates: **
+I didn &apos;t know why I had no cho@@ ice to do that .
+** Top k candidates: **
+I didn &apos;t know why I was cho@@ ice to do that .
+** Top k candidates: **
+I didn &apos;t know why I had no cho@@ ice to do this .
+** Top k candidates: **
+you can &apos;t buy this me@@ dic@@ ine .
+** Top k candidates: **
+you can &apos;t buy this word without or@@ der .
+** Top k candidates: **
+you can &apos;t buy this me@@ dic@@ ine of them .
+** Top k candidates: **
+did you have any last name , J@@ an@@ ese ?
+** Top k candidates: **
+did you have any last name , J@@ u@@ ro@@ ad ?
+** Top k candidates: **
+did you have any last name , J@@ an@@ k@@ ey ?
+** Top k candidates: **
+one of a little lon@@ ger is a bit f@@ as@@ ter .
+** Top k candidates: **
+one of a little lon@@ ger is a little bit .
+** Top k candidates: **
+one of a little lon@@ ger is a little bit f@@ as@@ ter .
+** Top k candidates: **
+I think it &apos;s time for me to get that food .
+** Top k candidates: **
+I think it &apos;s time for me to get this ev@@ en@@ ation .
+** Top k candidates: **
+I think it &apos;s time for me to get that fo@@ re@@ ig@@ ation .
+** Top k candidates: **
+he called his father of his father &apos;s heal@@ th .
+** Top k candidates: **
+he called his father of his father is in@@ vol@@ ved .
+** Top k candidates: **
+he called his father of his father is in@@ stru@@ c@@ tive .
+** Top k candidates: **
+th@@ an@@ ks , the b@@ lo@@ od , the b@@ lo@@ od and the b@@ lo@@ od and the b@@ ab@@ y is a great ex@@ per@@ i@@ ence of a pi@@ e@@ ce .
+** Top k candidates: **
+th@@ an@@ ks , the b@@ lo@@ od , the b@@ lo@@ od and the b@@ lo@@ od and the b@@ ab@@ y is a great ex@@ per@@ i@@ ence of a pi@@ e@@ ce of re@@ as@@ on .
+** Top k candidates: **
+th@@ an@@ ks , the b@@ lo@@ od , the b@@ lo@@ od and the b@@ lo@@ od and the b@@ ab@@ y is a great ex@@ per@@ i@@ ence of a pi@@ e@@ ce of re@@ ci@@ p@@ i@@ ence .
+** Top k candidates: **
+the girl , the b@@ ab@@ y , the bo@@ x , and even the E@@ ar@@ th , and even the way , and even the E@@ ar@@ th , and even the way , and even the E@@ ar@@ th of the E@@ ar@@ th , and even the E@@ ar@@ th of the E@@ ar@@ th , and even the E@@ ar@@ th , and the wh@@ ole man , and the E@@ ar@@ th of the meeting , and the E@@ ar@@ th of the E@@ ar@@ th , and even the way of the E@@
+** Top k candidates: **
+the girl , the b@@ ab@@ y , the bo@@ x , and even the E@@ ar@@ th , and even the way , and even the E@@ ar@@ th , and even the way , and even the E@@ ar@@ th of the E@@ ar@@ th , and even the E@@ ar@@ th of the E@@ ar@@ th , and even the E@@ ar@@ th , and the wh@@ ole man , and the E@@ ar@@ th of the meeting , and the E@@ ar@@ th of the E@@ ar@@ th , and even the way of the world
+** Top k candidates: **
+the girl , the b@@ ab@@ y , the bo@@ x , and even the E@@ ar@@ th , and even the way , and even the E@@ ar@@ th , and even the way , and even the E@@ ar@@ th of the E@@ ar@@ th , and even the E@@ ar@@ th of the E@@ ar@@ th , and even the E@@ ar@@ th , and the wh@@ ole man , and the E@@ ar@@ th of the meeting , and the E@@ ar@@ th of the E@@ ar@@ th , and even the way of the p@@
+** Top k candidates: **
+the pres@@ i@@ est has had been trying to make the ne@@ ws of his prom@@ is@@ es .
+** Top k candidates: **
+the pres@@ i@@ est has had been trying to make the ne@@ ws of his prom@@ is@@ s of the ho@@ sp@@ ital .
+** Top k candidates: **
+the pres@@ i@@ est has had been trying to make the ne@@ ws of his prom@@ is@@ s of the ho@@ sp@@ ital of the ho@@ tel .
+** Top k candidates: **
+in Jap@@ an of the people is still in the comp@@ any of the country , and the world and they were all things .
+** Top k candidates: **
+in Jap@@ an of the people is still in the comp@@ any of the country , and the world and they are all the world .
+** Top k candidates: **
+in Jap@@ an of the people is still in the comp@@ any of the country , and the world and they are all of the world .
+** Top k candidates: **
+this gu@@ ess is hard , but I didn &apos;t re@@ ali@@ ze her ton@@ ight .
+** Top k candidates: **
+this gu@@ ess is hard , but I don &apos;t know what she &apos;s doing .
+** Top k candidates: **
+this gu@@ ess is hard , but I don &apos;t know what she &apos;s going to get out of this .
+** Top k candidates: **
+let &apos;s call a cat at a cat l@@ ea@@ l , the poli@@ ti@@ c@@ y is s@@ mar@@ t .
+** Top k candidates: **
+let &apos;s call a cat at a cat l@@ ea@@ l , the poli@@ ti@@ c@@ y is s@@ mar@@ t @-@ de@@ ath .
+** Top k candidates: **
+let &apos;s call a cat at a cat l@@ ea@@ l , the poli@@ ti@@ c@@ y is s@@ mar@@ t @-@ de@@ ath @-@ s@@ pe@@ et@@ y @-@ s@@ pe@@ e@@ m .
+** Top k candidates: **
+it &apos;s a m@@ ea@@ l of the comp@@ any of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el .
+** Top k candidates: **
+it &apos;s a m@@ ea@@ l of the comp@@ any of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el .
+** Top k candidates: **
+it &apos;s a m@@ ea@@ l of the comp@@ any of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el of the In@@ tern@@ el .
+** Top k candidates: **
+some of you started , he is im@@ pr@@ ess@@ ed , he is im@@ pr@@ ess@@ ed for a s@@ pe@@ ec@@ h .
+** Top k candidates: **
+some of you started , he is im@@ pr@@ ess@@ ed , he is im@@ pr@@ ess@@ ed for a di@@ v@@ ati@@ c@@ es .
+** Top k candidates: **
+some of you started , he is im@@ pr@@ ess@@ ed , he is im@@ pr@@ ess@@ ed for a di@@ v@@ ati@@ c .
+** Top k candidates: **
+for a great idea of a pi@@ e@@ er , he must have pl@@ eas@@ ed to take a long time .
+** Top k candidates: **
+for a great idea of a pi@@ e@@ er , he must have pl@@ eas@@ ed to take a few hours .
+** Top k candidates: **
+for a great idea of a pi@@ e@@ er , he must have pl@@ eas@@ ed to take a few hours of the other .
+** Top k candidates: **
+I never gu@@ ess to have a great time , I &apos;d be a great way to get up a bi@@ ke .
+** Top k candidates: **
+I never gu@@ ess to have a great time , I &apos;d be a great way to get out of the rain .
+** Top k candidates: **
+I never gu@@ ess to have a great time , I &apos;d be a great way to get up a bi@@ ke of the rain .
+** Top k candidates: **
+the nei@@ gh@@ t@@ ors were ex@@ per@@ i@@ enc@@ ed to make a tri@@ p of the comp@@ any .
+** Top k candidates: **
+the nei@@ gh@@ t@@ ors were ex@@ per@@ i@@ enc@@ ed to make a tri@@ p of the E@@ u@@ ro@@ ti@@ cal of this sum@@ mer .
+** Top k candidates: **
+the nei@@ gh@@ t@@ ors were ex@@ per@@ i@@ enc@@ ed to make a tri@@ p of the E@@ u@@ ro@@ ti@@ cal of the sum@@ mer .
+** Top k candidates: **
+I don &apos;t think you &apos;re going to me in a ho@@ tel ?
+** Top k candidates: **
+I don &apos;t think you &apos;re going to me in a ho@@ tel .
+** Top k candidates: **
+I don &apos;t think you &apos;re going to me in a ho@@ tel . I &apos;ve been going to have a d@@ ea@@ l ?
+** Top k candidates: **
+what he couldn &apos;t sol@@ ve about this word , it would be a p@@ en .
+** Top k candidates: **
+what he couldn &apos;t sol@@ ve about this word , he had a word , he had a house .
+** Top k candidates: **
+what he couldn &apos;t sol@@ ve about this word , he had a word , he had a word .
+** Top k candidates: **
+I have a few questions , as I w@@ ish , as a book .
+** Top k candidates: **
+I have a few questions , as I w@@ ish to a book .
+** Top k candidates: **
+I have a few questions , as I w@@ ish , as a book and dr@@ a@@ wn .
+** Top k candidates: **
+the comp@@ any was really s@@ mar@@ t , but it would be it .
+** Top k candidates: **
+the comp@@ any was really s@@ af@@ e , but it will be sur@@ viv@@ sed .
+** Top k candidates: **
+the comp@@ any was really s@@ mar@@ t , but it will be sur@@ viv@@ sed .
+** Top k candidates: **
+ex@@ per@@ i@@ ence are often pain@@ ted with their eyes .
+** Top k candidates: **
+ex@@ per@@ i@@ ence are often pain@@ ted with their eyes l@@ ea@@ l .
+** Top k candidates: **
+ex@@ per@@ i@@ ence are often pain@@ ted with their eyes l@@ augh@@ ing .
+** Top k candidates: **
+this c@@ ake will take a t@@ ear of life .
+** Top k candidates: **
+this c@@ ake will take a t@@ ear of life from the b@@ ill .
+** Top k candidates: **
+this c@@ ake will take a t@@ ear of life from the c@@ at@@ y .
+** Top k candidates: **
+I read the same m@@ ea@@ l , he is a woman woman .
+** Top k candidates: **
+I read the same m@@ ea@@ l , it &apos;s a woman .
+** Top k candidates: **
+I read the same m@@ ea@@ l , it &apos;s a woman . she &apos;s a woman .
+** Top k candidates: **
+when I stu@@ red the uni@@ vers@@ ity , I still have been p@@ aid before .
+** Top k candidates: **
+when I stu@@ red the uni@@ vers@@ ity , I still have a p@@ ast before .
+** Top k candidates: **
+when I stu@@ red the uni@@ vers@@ ity , I still have been p@@ aid before I have been p@@ aid .
+** Top k candidates: **
+how can we be qui@@ et with the world .
+** Top k candidates: **
+how can we be qui@@ et with the world !
+** Top k candidates: **
+how can we be ser@@ i@@ ous with the world .
+** Top k candidates: **
+Tom in@@ stru@@ c@@ ted the c@@ ase and co@@ ver@@ ed in the s@@ cen@@ e .
+** Top k candidates: **
+Tom in@@ stru@@ c@@ ted the c@@ ase and co@@ ver@@ ed in the st@@ re@@ es .
+** Top k candidates: **
+Tom in@@ stru@@ c@@ ted the c@@ ase and co@@ ver@@ ed in the st@@ am@@ p .
+** Top k candidates: **
+J@@ oh@@ n knew the m@@ ea@@ l , so they dec@@ i@@ ded to call her without him .
+** Top k candidates: **
+J@@ oh@@ n knew the m@@ ea@@ l , so they dec@@ i@@ ded to call him without him .
+** Top k candidates: **
+J@@ oh@@ n knew the m@@ ea@@ l , so they dec@@ i@@ ded to dec@@ ide her without him .
+** Top k candidates: **
+after her parents in his parents , An@@ and and his father was the only way .
+** Top k candidates: **
+after her parents in his parents , An@@ ar@@ ily , and his father was the only way .
+** Top k candidates: **
+after her parents in his parents , An@@ and and his father was the only one and her .
+** Top k candidates: **
+you should cho@@ ose a job with your fe@@ et .
+** Top k candidates: **
+you should cho@@ ose a job with your d@@ ea@@ l with you .
+** Top k candidates: **
+you should cho@@ ose a job with your d@@ ea@@ l with your d@@ ea@@ l .
+** Top k candidates: **
+let &apos;s take this book , I lear@@ ned all things for the teacher .
+** Top k candidates: **
+let &apos;s take this book , I lear@@ ned all things in this teacher .
+** Top k candidates: **
+let &apos;s take this book , I lear@@ ned all things for this teacher .
+** Top k candidates: **
+the most lon@@ ger is the most beautiful language . &quot;
+** Top k candidates: **
+the most lon@@ ger is the most beautiful language .
+** Top k candidates: **
+the most lon@@ ger is the most beautiful language . &quot; it &apos;s not f@@ un@@ ning .
+** Top k candidates: **
+you need to have a lot to be a lot of ad@@ dress .
+** Top k candidates: **
+you need to have a lot to be a lot of ad@@ vice to be a ti@@ ck@@ et .
+** Top k candidates: **
+you need to have a lot to be a lot of ad@@ vice to be a p@@ at@@ d@@ am@@ al .
+** Top k candidates: **
+the last thing I want to do is be@@ er .
+** Top k candidates: **
+the last thing I want to do is care of them .
+** Top k candidates: **
+the last thing I want to do is care of all .
+** Top k candidates: **
+there was always too much su@@ g@@ es in his own .
+** Top k candidates: **
+there was always too much su@@ g@@ ar in his own .
+** Top k candidates: **
+there was always too much su@@ g@@ am@@ es in his own .
+** Top k candidates: **
+I went to the party of my old friends at the party .
+** Top k candidates: **
+I went to the party of my old friends to the party .
+** Top k candidates: **
+I had a p@@ at@@ ch on my old car to the party .
+** Top k candidates: **
+the oth@@ ers can &apos;t sol@@ ve this who is true .
+** Top k candidates: **
+the oth@@ ers can &apos;t sol@@ ve what &apos;s true .
+** Top k candidates: **
+the oth@@ ers can &apos;t co@@ ok what &apos;s true .
+** Top k candidates: **
+she has the ne@@ ws more al@@ tern@@ ers and try everyone .
+** Top k candidates: **
+she has the ne@@ ws more al@@ tern@@ ati@@ ve than the world .
+** Top k candidates: **
+she has the ne@@ ws more al@@ tern@@ ati@@ ve than the world would try it .
+** Top k candidates: **
+my mother and the mother and she is tired , and she went to the house .
+** Top k candidates: **
+my mother and the mother and she is tired , and she &apos;s tired to the house .
+** Top k candidates: **
+my mother and the mother and she was tired , and she &apos;s tired to the house .
+** Top k candidates: **
+in a t@@ ask , she was a pain@@ ting .
+** Top k candidates: **
+in a t@@ ask , she was a ti@@ ght .
+** Top k candidates: **
+in a t@@ ask , she was a ti@@ ght of the li@@ st .
+** Top k candidates: **
+a teacher stu@@ dents , to the cl@@ ass of the cl@@ ass .
+** Top k candidates: **
+the teacher stu@@ dents on the cl@@ ass of the cl@@ ass .
+** Top k candidates: **
+the teacher stu@@ dents on the cl@@ ass of the cl@@ ass , is the cl@@ ass .
+** Top k candidates: **
+the sum@@ mer was the last to@@ p of the sum@@ mer .
+** Top k candidates: **
+the sum@@ mer was the last way to make the ne@@ ws .
+** Top k candidates: **
+the sum@@ mer was the last to@@ p of the sum@@ mer who was .
+** Top k candidates: **
+the for@@ t of N@@ or@@ t of N@@ a@@ p was bor@@ n in M@@ o@@ o .
+** Top k candidates: **
+the for@@ t of N@@ or@@ t of N@@ a@@ p was bor@@ n in M@@ o@@ d@@ o .
+** Top k candidates: **
+the for@@ t of N@@ or@@ t of N@@ a@@ p was bor@@ n in M@@ o@@ d@@ b@@ ar@@ k .
+** Top k candidates: **
+I &apos;m sorry I don &apos;t want to make you any to be .
+** Top k candidates: **
+I &apos;m sorry I don &apos;t want to make you as to know .
+** Top k candidates: **
+I &apos;m sorry I don &apos;t want to make you as to know that you &apos;re just .
+** Top k candidates: **
+th@@ ough , the fu@@ ture , the fu@@ ture looks like a great k@@ is@@ s .
+** Top k candidates: **
+th@@ ough , the fu@@ ture , the fu@@ ture looks like a great k@@ is@@ ts .
+** Top k candidates: **
+th@@ ough , the fu@@ ture , the fu@@ ture looks like a big k@@ is@@ s .
+** Top k candidates: **
+it &apos;s not as the b@@ ab@@ y , but the b@@ ill is wat@@ ching me .
+** Top k candidates: **
+it &apos;s not as the b@@ ab@@ y , but the b@@ ill is waiting for me .
+** Top k candidates: **
+it &apos;s not as the b@@ ab@@ y , but the b@@ ill is waiting .
+** Top k candidates: **
+he bro@@ ke the h@@ us@@ b@@ and in ma@@ king .
+** Top k candidates: **
+he bro@@ ke the h@@ us@@ b@@ and in ma@@ king co@@ st .
+** Top k candidates: **
+he bro@@ ke the h@@ us@@ b@@ and in the use of this l@@ friend .
+** Top k candidates: **
+it &apos;s the house of this po@@ or in which he was child .
+** Top k candidates: **
+it &apos;s the house of this po@@ or in which he was sure .
+** Top k candidates: **
+it &apos;s the house of this re@@ as@@ on when he was sure .
+** Top k candidates: **
+if you don &apos;t have a sh@@ or@@ et , they are not pl@@ ent@@ ed .
+** Top k candidates: **
+if you don &apos;t have a sh@@ or@@ t , they are not pl@@ ent@@ ed .
+** Top k candidates: **
+if you don &apos;t have a sh@@ or@@ et , they are not pl@@ ain@@ ed .
+** Top k candidates: **
+wh@@ at@@ ever of the bu@@ il@@ er be@@ h@@ ind a s@@ af@@ e .
+** Top k candidates: **
+wh@@ at@@ ever of the bu@@ il@@ er be@@ h@@ air a s@@ af@@ e .
+** Top k candidates: **
+wh@@ at@@ ever of the bu@@ il@@ er be@@ came a s@@ af@@ e .
+** Top k candidates: **
+N@@ a@@ h ! what &apos;s something to do something ?
+** Top k candidates: **
+N@@ a@@ h ! what &apos;s something to do anything ?
+** Top k candidates: **
+N@@ a@@ h ! what &apos;s something going to do there ?
+** Top k candidates: **
+Tom , who is g@@ ain@@ ing , can make anything to do anything for me .
+** Top k candidates: **
+Tom , who is g@@ ain@@ ing , can make anything for me to do for me .
+** Top k candidates: **
+Tom , who is g@@ ain@@ ing , can make anything for me to do .
+** Top k candidates: **
+the children are going to s@@ wi@@ m in the c@@ ity .
+** Top k candidates: **
+the children are going to s@@ wi@@ m in the b@@ each .
+** Top k candidates: **
+the children are going to s@@ wi@@ m in the b@@ ab@@ y .
+** Top k candidates: **
+&quot; look , a lo@@ ver ! &quot; A@@ mer@@ ic@@ a !
+** Top k candidates: **
+&quot; look , but a s@@ af@@ e ! &quot;
+** Top k candidates: **
+&quot; look , a lo@@ ver ! &quot; A@@ mer@@ ic@@ a .
+** Top k candidates: **
+&quot; hear@@ t &quot; and &quot; the same m@@ em@@ ory .
+** Top k candidates: **
+&quot; hear@@ t &quot; and &quot; the same m@@ em@@ ory . &quot;
+** Top k candidates: **
+&quot; hear@@ t &quot; and &quot; the same m@@ em@@ ory of cour@@ se .
+** Top k candidates: **
+I sup@@ pose that &apos;s differ@@ ent when you have to get to the k@@ ey@@ s .
+** Top k candidates: **
+I sup@@ pose that &apos;s differ@@ ent when you have to get to the f@@ lo@@ or .
+** Top k candidates: **
+I sup@@ pose that &apos;s differ@@ ent when you have to get to the se@@ at .
+** Top k candidates: **
+I always got a good teacher in my po@@ et .
+** Top k candidates: **
+I always got a good teacher in my po@@ or .
+** Top k candidates: **
+I always got a good teacher in the b@@ a@@ g .
+** Top k candidates: **
+the story of this b@@ ab@@ y is dr@@ un@@ k of 2@@ 0 .
+** Top k candidates: **
+the story of this b@@ ab@@ y is dr@@ un@@ k from 2@@ 0@@ 00 old .
+** Top k candidates: **
+the story of this b@@ ab@@ y is dr@@ un@@ k of 2@@ 0@@ 1@@ 0 .
+** Top k candidates: **

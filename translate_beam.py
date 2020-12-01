@@ -75,6 +75,7 @@ def main(args):
     # Iterate over the test set
     # TODO smth wrong here
     all_hyps = {}
+    topk_hyps = []
     for i, sample in enumerate(progress_bar):
 
         # Create a beam search object or every input sentence in batch
@@ -227,14 +228,16 @@ def main(args):
         # Segment into sentences, return a list with adaptive beam search
         # best_sents = torch.stack( [search.get_best()[1].sequence[1:].cpu() for search in searches] )
         # TASK 4
-        best_sents_list = []
-        for search in searches:
-            for node in search.get_best(args.k_best):
-                best_sents_list.append(node[1].sequence[1:])
+        # best_sents_list = []
+        # for search in searches:
+        #     for node in search.get_best(args.k_best):
+        #         best_sents_list.append(node[1].sequence[1:])
         
-        # finish stacking (concatenating along a dim)
-        best_sents = torch.stack(best_sents_list)
-                
+        # # finish stacking (concatenating along a dim)
+        # best_sents = torch.stack(best_sents_list)
+        # list comprehension
+        best_sents = torch.stack([node[1].sequence[1:] for search in searches for node in search.get_best(args.k_best)])
+        
         decoded_batch = best_sents.numpy()
 
         # [token_ids, EOS, PAD]
@@ -256,18 +259,36 @@ def main(args):
         # Convert arrays of indices into strings of words
         output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
 
-        # TODO: adapt to take in multiple sents
-        for ii, sent in enumerate(output_sentences):
-            all_hyps[int(sample['id'].data[ii])] = sent
-            print("debug: ", all_hyps[int(sample['id'].data[ii])]) ## BUG: IndexError: index 64 is out of bounds for dimension 0 with size 64
-            # print("ii", ii)
-            # print("sent", sent)
+        # TASK4: collect top K sentences!
+        for sentence in output_sentences:
+            topk_hyps.append(sentence)
 
+        # # TODO: adapt to take in multiple sents
+        # for ii, sent in enumerate(output_sentences):
+        #     all_hyps[int(sample['id'].data[ii])] = sent
+        #     #print("debug: ", all_hyps[int(sample['id'].data[ii])]) ## BUG: IndexError: index 64 is out of bounds for dimension 0 with size 64
+        #     print("sample.len", len(sample))
+        #     print("sample", sample)
+        #     # print("sent", sent)
+        # bug resolution: topk_hypes list! above ^
+        
+        all_hyps[int(sample['id'].data[0])] = output_sentences
+        
     # Write to file
     if args.output is not None:
-        with open(args.output, 'w') as out_file:
-            for sent_id in range(len(all_hyps.keys())):
-                out_file.write(all_hyps[sent_id] + '\n')
+        filename, file_extension = os.path.splitext(args.output)
+        with open(filename+'_top' + str(args.k_best) + file_extension, 'w', encoding='utf-8') as out_file:
+            # for i in range(args.k_best):
+            #     out_file.write('*** Top candidates are: \n')
+
+            for sent_id in range(len(topk_hyps)):
+                out_file.write(topk_hyps[sent_id] + '\n')
+
+
+    # if args.output is not None:
+    #     with open(args.output, 'w') as out_file:
+    #         for sent_id in range(len(all_hyps.keys())):
+    #             out_file.write(all_hyps[sent_id][0] + '\n')
 
 
 if __name__ == '__main__':
